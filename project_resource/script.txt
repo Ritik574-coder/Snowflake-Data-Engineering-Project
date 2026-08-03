@@ -1,0 +1,23 @@
+Hello, and welcome to my Snowflake Data Engineering Project.
+
+I'm Ritik and I created this project to develop a deep, practical understanding of Snowflake and
+modern data engineering.
+
+Instead of learning Snowflake through isolated examples, this project focuses on building
+production-inspired data engineering workflows from end to end.
+
+Throughout the project, I’ll explore data ingestion, ELT pipelines, SQL and Python transformations,
+data modeling, automation, data quality, security, governance, monitoring, and performance
+optimization.
+
+I’ll also work with Snowflake capabilities such as stages, streams, tasks, dynamic tables,
+ warehouses, and other platform features as the project evolves.
+
+The goal is not simply to use these technologies, but to understand why, when, and how they
+ should be used in real data platforms.
+
+This project will continue evolving as I learn, experiment, build, and improve.
+
+Welcome to my Snowflake Data Engineering journey.
+
+Let’s build.
