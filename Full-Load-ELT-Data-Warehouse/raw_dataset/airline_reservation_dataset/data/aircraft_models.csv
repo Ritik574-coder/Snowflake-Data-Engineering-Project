@@ -1,0 +1,26 @@
+model_id,manufacturer,model_name,capacity,range_km,category
+AM0001,Boeing,737-800,189,5765,Narrow-body
+AM0002,Boeing,737 MAX 8,178,6570,Narrow-body
+AM0003,Boeing,777-300ER,396,13650,Wide-body
+AM0004,Boeing,787-9,296,14140,Wide-body
+AM0005,Boeing,767-300,261,11070,Wide-body
+AM0006,Boeing,747-8,410,14310,Wide-body
+AM0007,Airbus,A320,180,6100,Narrow-body
+AM0008,Airbus,A321neo,220,7400,Narrow-body
+AM0009,Airbus,A330-300,335,11750,Wide-body
+AM0010,Airbus,A350-900,325,15000,Wide-body
+AM0011,Airbus,A380-800,555,15200,Wide-body
+AM0012,Airbus,A319,156,6850,Narrow-body
+AM0013,Embraer,E175,88,3334,Regional Jet
+AM0014,Embraer,E190,106,4260,Regional Jet
+AM0015,Embraer,E195-E2,146,4800,Narrow-body
+AM0016,Bombardier,CRJ900,90,2956,Regional Jet
+AM0017,Bombardier,Q400,78,2040,Regional Jet
+AM0018,Boeing,737 MAX 8R,168,7070,Narrow-body
+AM0019,Boeing,777-300ERR,386,14150,Wide-body
+AM0020,Boeing,787-9R,286,14640,Wide-body
+AM0021,Boeing,737-800R,179,6265,Narrow-body
+AM0022,Boeing,737 MAX 8R,168,7070,Narrow-body
+AM0023,Boeing,777-300ERR,386,14150,Wide-body
+AM0024,Boeing,787-9R,286,14640,Wide-body
+AM0025,Boeing,737-800R,179,6265,Narrow-body
