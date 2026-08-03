@@ -1,0 +1,251 @@
+airport_id,iata_code,airport_name,city,country,timezone,active_flag
+APT00001,KCJ,Zurich International Airport,Zurich,Switzerland,UTC+12,True
+APT00002,WGL,Lagos International Airport,Lagos,Nigeria,UTC+12,True
+APT00003,TWV, New York International Airport ,New York,United States,UTC+0,True
+APT00004,QJD,Zurich International Airport,Zurich,Switzerland,UTC+11,True
+APT00005,DXY,San Diego International Airport,San Diego,United States,UTC+2,True
+APT00006,DLC,Sao Paulo Intl,Sao Paulo,Brazil,UTC-7,True
+APT00007,EVB,Amsterdam International Airport,Amsterdam,Netherlands,UTC+8,True
+APT00008,KVH,Johannesburg International Airport,Johannesburg,South Africa,UTC+8,True
+APT00009,WNB,Karachi International Airport,Karachi,Pakistan,UTC-6,True
+APT00010,FRP,Amman International Airport,Amman,Jordan,UTC-11,True
+APT00011,JYN, Toronto International Airport ,Toronto,Canada,UTC-9,True
+APT00012,BKY,WARSAW AIRPORT,Warsaw,Poland,UTC+8,True
+APT00013,XFZ,Birmingham International Airport,Birmingham,United Kingdom,UTC+4,True
+APT00014,RQU, Hamburg International Airport ,Hamburg,Germany,UTC-4,True
+APT00015,NZW,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,UTC+5,True
+APT00016,RFG, Berlin International Airport ,Berlin,Germany,UTC-8,True
+APT00017,LQF,Rio de Janeiro International Airport,Rio de Janeiro,Brazil,UTC+6,True
+APT00018,HLK,Bangkok International Airport,Bangkok,Thailand,UTC+8,True
+APT00019,YSX,Los Angeles International Airport,Los Angeles,United States,UTC+0,True
+APT00020,MRE,Chicago International Airport,Chicago,United States,UTC+8,True
+APT00021,BGE,Athens International Airport,Athens,Greece,UTC+6,True
+APT00022,NWY,Singapore International Airport,Singapore,Singapore,UTC-8,True
+APT00023,QTP,Lagos International Airport,Lagos,Nigeria,UTC-9,True
+APT00024,ZZE,Warsaw International Airport,Warsaw,Poland,UTC+8,True
+APT00025,ZVY,Mumbai International Airport,Mumbai,India,UTC+11,True
+APT00026,BCN,Lisbon International Airport,Lisbon,Portugal,UTC+3,True
+APT00027,APM,Chennai International Airport,Chennai,India,UTC+0,True
+APT00028,YVN,St. Petersburg International Airport,St. Petersburg,Russia,UTC+0,True
+APT00029,WCU,SYDNEY AIRPORT,Sydney,Australia,UTC-9,True
+APT00030,TLY,Dhaka International Airport,Dhaka,Bangladesh,UTC+7,True
+APT00031,TXV,Bengaluru International Airport,Bengaluru,India,UTC+7,True
+APT00032,NHH, San Francisco International Airport ,San Francisco,United States,UTC-8,True
+APT00033,PLT,St. Petersburg International Airport,St. Petersburg,Russia,UTC-2,True
+APT00034,YYJ,Frankfurt International Airport,Frankfurt,Germany,UTC+7,True
+APT00035,RZA,Warsaw International Airport,Warsaw,Poland,UTC+6,True
+APT00036,GWX, Lima International Airport ,Lima,Peru,UTC+4,True
+APT00037,ASP,Rome International Airport,Rome,Italy,UTC-11,True
+APT00038,LHZ,San Francisco International Airport,San Francisco,United States,UTC+0,True
+APT00039,NYT, Istanbul International Airport ,Istanbul,Turkey,UTC+7,True
+APT00040,BXS,Dallas International Airport,Dallas,United States,UTC-5,True
+APT00041,RDR,TOKYO AIRPORT,Tokyo,Japan,UTC+9,True
+APT00042,AFF, Dallas International Airport ,Dallas,United States,UTC+8,True
+APT00043,EAX,Paris International Airport,Paris,France,UTC-11,False
+APT00044,ADB,Orlando International Airport,Orlando,United States,UTC+12,True
+APT00045,FGW,MILAN AIRPORT,Milan,Italy,UTC+12,True
+APT00046,YCU,Tunis International Airport,Tunis,Tunisia,UTC-1,True
+APT00047,ALE, Sydney International Airport ,Sydney,Australia,UTC+1,True
+APT00048,TPR,Chicago International Airport,Chicago,United States,UTC+8,True
+APT00049,TBE,New York International Airport,New York,United States,UTC+1,True
+APT00050,ZTQ,COLOGNE AIRPORT,Cologne,Germany,UTC-11,True
+APT00051,BFX,Copenhagen International Airport,Copenhagen,Denmark,UTC-3,True
+APT00052,CUE,Helsinki International Airport,Helsinki,Finland,UTC+2,True
+APT00053,UGR,Delhi International Airport,Delhi,India,UTC-6,True
+APT00054,YNH,Denver International Airport,Denver,United States,UTC-5,True
+APT00055,RLY, Amman International Airport ,Amman,Jordan,UTC+5,True
+APT00056,KXM, Shanghai International Airport ,Shanghai,China,UTC+11,True
+APT00057,GCH,Dhaka International Airport,Dhaka,Bangladesh,UTC-2,True
+APT00058,RZK,Edinburgh International Airport,Edinburgh,United Kingdom,UTC+11,True
+APT00059,QQH,Miami Intl,Miami,United States,UTC+0,True
+APT00060,MDF,Vienna International Airport,Vienna,Austria,UTC+3,True
+APT00061,SPR,Beijing International Airport,Beijing,China,UTC-6,True
+APT00062,UJP,Santiago International Airport,Santiago,Chile,UTC+1,True
+APT00063,JZN,Vancouver International Airport,Vancouver,Canada,UTC-8,True
+APT00064,YWN,Frankfurt International Airport,Frankfurt,Germany,UTC-6,True
+APT00065,HNW,Athens International Airport,Athens,Greece,UTC-10,True
+APT00066,BWW,LYON AIRPORT,Lyon,France,UTC+2,True
+APT00067,JME,Paris International Airport,Paris,France,UTC+10,True
+APT00068,ALV,Jakarta International Airport,Jakarta,Indonesia,UTC+6,True
+APT00069,DFQ, Manchester International Airport ,Manchester,United Kingdom,UTC+1,True
+APT00070,ZBZ,Casablanca International Airport,Casablanca,Morocco,UTC+7,True
+APT00071,SDS,Mexico City International Airport,Mexico City,Mexico,UTC-3,True
+APT00072,ASF,Dubai International Airport,Dubai,United Arab Emirates,UTC+6,True
+APT00073,DLW,Delhi International Airport,Delhi,India,UTC-7,True
+APT00074,WVZ, Nice International Airport ,Nice,France,UTC+9,True
+APT00075,KHB,New York International Airport,New York,United States,UTC+0,True
+APT00076,MYD,Riyadh International Airport,Riyadh,Saudi Arabia,UTC+11,True
+APT00077,BRF,Bogota International Airport,Bogota,Colombia,UTC+12,True
+APT00078,QTM,CAIRO AIRPORT,Cairo,Egypt,UTC+9,True
+APT00079,WWR,Lisbon International Airport,Lisbon,Portugal,UTC+8,True
+APT00080,UQB,San Francisco International Airport,San Francisco,United States,UTC+10,True
+APT00081,JYW,Hanoi International Airport,Hanoi,Vietnam,UTC+5,True
+APT00082,WJN,Montreal International Airport,Montreal,Canada,UTC-9,True
+APT00083,WKJ,Zagreb International Airport,Zagreb,Croatia,UTC+1,True
+APT00084,CAK,Cairo International Airport,Cairo,Egypt,UTC-2,True
+APT00085,EAJ,Chennai International Airport,Chennai,India,UTC+3,False
+APT00086,YSL,Casablanca International Airport,Casablanca,Morocco,UTC+2,True
+APT00087,AKG,Copenhagen International Airport,Copenhagen,Denmark,UTC+6,True
+APT00088,ZVQ,Los Angeles International Airport,Los Angeles,United States,UTC+4,True
+APT00089,XNT,Boston International Airport,Boston,United States,UTC+0,True
+APT00090,WBC,Amsterdam International Airport,Amsterdam,Netherlands,UTC+4,True
+APT00091,PZR,Brussels International Airport,Brussels,Belgium,UTC-8,True
+APT00092,GVT,Chicago International Airport,Chicago,United States,UTC-11,True
+APT00093,CHA,Tel Aviv International Airport,Tel Aviv,Israel,UTC+10,True
+APT00094,ZWM,Cairo International Airport,Cairo,Egypt,UTC-10,True
+APT00095,VRC,Doha International Airport,Doha,Qatar,UTC-5,True
+APT00096,YLV,Boston Intl,Boston,United States,UTC+11,True
+APT00097,BJC,Prague International Airport,Prague,Czech Republic,UTC+4,True
+APT00098,UAW,Seoul International Airport,Seoul,South Korea,UTC-2,True
+APT00099,BXF,Lagos International Airport,Lagos,Nigeria,UTC-1,True
+APT00100,AYN,Budapest International Airport,Budapest,Hungary,UTC+7,False
+APT00101,KSX,Madrid International Airport,Madrid,Spain,UTC-2,True
+APT00102,WNJ,Moscow International Airport,Moscow,Russia,UTC+6,True
+APT00103,QLK,Istanbul International Airport,Istanbul,Turkey,UTC+9,True
+APT00104,ESC,Manchester International Airport,Manchester,United Kingdom,UTC-1,True
+APT00105,VNZ,Rio de Janeiro International Airport,Rio de Janeiro,Brazil,UTC+1,True
+APT00106,DCP,Barcelona International Airport,Barcelona,Spain,UTC+6,True
+APT00107,QBK,London International Airport,London,United Kingdom,UTC-3,True
+APT00108,DCJ,COPENHAGEN AIRPORT,Copenhagen,Denmark,UTC+2,True
+APT00109,AHL,Tokyo International Airport,Tokyo,Japan,UTC-1,True
+APT00110,LXZ,Nice International Airport,Nice,France,UTC+12,True
+APT00111,GJX,Sao Paulo International Airport,Sao Paulo,Brazil,UTC+10,True
+APT00112,XHN,Philadelphia International Airport,Philadelphia,United States,UTC+3,True
+APT00113,RAH,Denver International Airport,Denver,United States,UTC-7,True
+APT00114,DJW,Buenos Aires International Airport,Buenos Aires,Argentina,UTC-5,True
+APT00115,VQU,Stockholm International Airport,Stockholm,Sweden,UTC+11,True
+APT00116,ZQS,Moscow International Airport,Moscow,Russia,UTC-5,True
+APT00117,UME,Delhi International Airport,Delhi,India,UTC-1,True
+APT00118,RHY,Helsinki International Airport,Helsinki,Finland,UTC-8,True
+APT00119,AYZ, Helsinki International Airport ,Helsinki,Finland,UTC-10,True
+APT00120,FPB,Manila International Airport,Manila,Philippines,UTC+7,True
+APT00121,HBB, Hong Kong International Airport ,Hong Kong,China,UTC+7,True
+APT00122,LEZ,Dubai International Airport,Dubai,United Arab Emirates,UTC-4,True
+APT00123,DAG,Melbourne International Airport,Melbourne,Australia,UTC-9,False
+APT00124,CNG,Munich International Airport,Munich,Germany,UTC+0,True
+APT00125,PUM,Lima International Airport,Lima,Peru,UTC+9,True
+APT00126,QFX,Jakarta International Airport,Jakarta,Indonesia,UTC+0,True
+APT00127,THF,Beijing Intl,Beijing,China,UTC+11,True
+APT00128,WTE,Edinburgh Intl,Edinburgh,United Kingdom,UTC-8,True
+APT00129,AYC,Auckland International Airport,Auckland,New Zealand,UTC-11,False
+APT00130,DCS,Athens International Airport,Athens,Greece,UTC+3,True
+APT00131,FQS,Nairobi Intl,Nairobi,Kenya,UTC+9,True
+APT00132,NQL,Rome International Airport,Rome,Italy,UTC-8,True
+APT00133,GGF,Stockholm International Airport,Stockholm,Sweden,UTC+11,True
+APT00134,XZB,Ottawa International Airport,Ottawa,Canada,UTC-3,True
+APT00135,PVC,Nairobi International Airport,Nairobi,Kenya,UTC+3,True
+APT00136,RHV,Las Vegas Intl,Las Vegas,United States,UTC-10,True
+APT00137,KAS,Dubai International Airport,Dubai,United Arab Emirates,UTC-8,True
+APT00138,HTV,Lyon International Airport,Lyon,France,UTC-4,True
+APT00139,FDU,Seattle International Airport,Seattle,United States,UTC-8,True
+APT00140,VNC,Los Angeles Intl,Los Angeles,United States,UTC+12,False
+APT00141,PZP, Hanoi International Airport ,Hanoi,Vietnam,UTC+3,True
+APT00142,CXK,Seoul International Airport,Seoul,South Korea,UTC+1,True
+APT00143,TBL,Bangkok International Airport,Bangkok,Thailand,UTC+3,True
+APT00144,ZWE,Phoenix International Airport,Phoenix,United States,UTC-11,True
+APT00145,WWW,Tunis International Airport,Tunis,Tunisia,UTC-5,True
+APT00146,NKU,Melbourne International Airport,Melbourne,Australia,UTC+5,True
+APT00147,GUT,Montreal International Airport,Montreal,Canada,UTC+12,True
+APT00148,YAA,Birmingham International Airport,Birmingham,United Kingdom,UTC+8,True
+APT00149,XRK,Istanbul International Airport,Istanbul,Turkey,UTC-3,True
+APT00150,ZGE,Auckland International Airport,Auckland,New Zealand,UTC+12,True
+APT00151,XFF,London International Airport,London,United Kingdom,UTC+4,True
+APT00152,KNC,Stockholm International Airport,Stockholm,Sweden,UTC+6,True
+APT00153,YPL,Munich International Airport,Munich,Germany,UTC-9,True
+APT00154,WVN,Bogota International Airport,Bogota,Colombia,UTC-9,True
+APT00155,LAF,Prague International Airport,Prague,Czech Republic,UTC+12,True
+APT00156,YXR,Reykjavik International Airport,Reykjavik,Iceland,UTC-2,True
+APT00157,PPK,Vancouver International Airport,Vancouver,Canada,UTC-2,True
+APT00158,NMB,Berlin International Airport,Berlin,Germany,UTC-7,True
+APT00159,UDH,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,UTC-8,True
+APT00160,AYT,MILAN AIRPORT,Milan,Italy,UTC-6,True
+APT00161,QXJ,Shanghai International Airport,Shanghai,China,UTC-5,True
+APT00162,MNB,Barcelona International Airport,Barcelona,Spain,UTC+0,True
+APT00163,AMC,Tel Aviv International Airport,Tel Aviv,Israel,UTC+12,True
+APT00164,XCF,Mumbai International Airport,Mumbai,India,UTC-5,True
+APT00165,HXU,Buenos Aires International Airport,Buenos Aires,Argentina,UTC+10,True
+APT00166,JYQ, Boston International Airport ,Boston,United States,UTC-10,True
+APT00167,FPL,Toronto International Airport,Toronto,Canada,UTC-9,True
+APT00168,KPN,Manchester International Airport,Manchester,United Kingdom,UTC-8,True
+APT00169,CWJ,Osaka International Airport,Osaka,Japan,UTC+3,True
+APT00170,WJW,Singapore International Airport,Singapore,Singapore,UTC-2,True
+APT00171,BEQ, Riyadh International Airport ,Riyadh,Saudi Arabia,UTC+11,True
+APT00172,TCK,Dublin International Airport,Dublin,Ireland,UTC-5,True
+APT00173,RKB,Atlanta International Airport,Atlanta,United States,UTC-1,True
+APT00174,DWP,Johannesburg International Airport,Johannesburg,South Africa,UTC+9,True
+APT00175,TFH,Bengaluru International Airport,Bengaluru,India,UTC-6,True
+APT00176,BXA,Santiago International Airport,Santiago,Chile,UTC+7,True
+APT00177,LNK,Nairobi International Airport,Nairobi,Kenya,UTC+1,True
+APT00178,JDE,Calgary International Airport,Calgary,Canada,UTC+11,True
+APT00179,DDJ,San Diego International Airport,San Diego,United States,UTC+2,True
+APT00180,WAK,Vienna International Airport,Vienna,Austria,UTC-9,True
+APT00181,XQB,Rome International Airport,Rome,Italy,UTC+0,True
+APT00182,REW,Reykjavik International Airport,Reykjavik,Iceland,UTC+12,True
+APT00183,JMW,Oslo International Airport,Oslo,Norway,UTC-8,True
+APT00184,PBY,Doha International Airport,Doha,Qatar,UTC-3,True
+APT00185,BUR,Hamburg International Airport,Hamburg,Germany,UTC+8,True
+APT00186,NLG,Oslo Intl,Oslo,Norway,UTC+4,True
+APT00187,GGX,Dallas International Airport,Dallas,United States,UTC-10,True
+APT00188,LDU,Calgary International Airport,Calgary,Canada,UTC+4,True
+APT00189,RHK,Manila International Airport,Manila,Philippines,UTC+6,True
+APT00190,RQB,Colombo International Airport,Colombo,Sri Lanka,UTC+0,True
+APT00191,PEC,Milan International Airport,Milan,Italy,UTC+5,True
+APT00192,ZLG,Nice International Airport,Nice,France,UTC+10,True
+APT00193,LNU,Munich International Airport,Munich,Germany,UTC+4,True
+APT00194,TJT,Montreal International Airport,Montreal,Canada,UTC+6,True
+APT00195,DTQ,Lisbon International Airport,Lisbon,Portugal,UTC+1,True
+APT00196,ERK,Seattle International Airport,Seattle,United States,UTC-3,True
+APT00197,GDV,Osaka International Airport,Osaka,Japan,UTC-9,True
+APT00198,TRH,Ottawa International Airport,Ottawa,Canada,UTC-11,True
+APT00199,DUY,Karachi International Airport,Karachi,Pakistan,UTC+9,True
+APT00200,EDW, Cologne International Airport ,Cologne,Germany,UTC-5,True
+APT00201,GSX,Atlanta International Airport,Atlanta,United States,UTC+10,True
+APT00202,PSU,Doha International Airport,Doha,Qatar,UTC+11,True
+APT00203,HRB,Mexico City International Airport,Mexico City,Mexico,UTC-4,True
+APT00204,LSP,Hong Kong International Airport,Hong Kong,China,UTC-11,True
+APT00205,ZQJ,Prague International Airport,Prague,Czech Republic,UTC-1,True
+APT00206,HHW,Portland International Airport,Portland,United States,UTC+2,True
+APT00207,VJV,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,UTC-6,True
+APT00208,HWY,Zagreb International Airport,Zagreb,Croatia,UTC+12,True
+APT00209,FUC,Taipei International Airport,Taipei,Taiwan,UTC+0,True
+APT00210,QRR,Dublin International Airport,Dublin,Ireland,UTC-5,True
+APT00211,JKG,Vancouver International Airport,Vancouver,Canada,UTC-6,True
+APT00212,PEJ,Seattle International Airport,Seattle,United States,UTC-11,True
+APT00213,DWF,Miami International Airport,Miami,United States,UTC-8,True
+APT00214,CKL,Madrid International Airport,Madrid,Spain,UTC+12,True
+APT00215,ALK,Frankfurt International Airport,Frankfurt,Germany,UTC+3,True
+APT00216,RBY,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,UTC-8,True
+APT00217,MXF, London International Airport ,London,United Kingdom,UTC+4,True
+APT00218,PED,Madrid International Airport,Madrid,Spain,UTC-1,True
+APT00219,HSV,Paris International Airport,Paris,France,UTC+4,True
+APT00220,ANC,Vienna International Airport,Vienna,Austria,UTC-9,True
+APT00221,HHH,Atlanta International Airport,Atlanta,United States,UTC+0,True
+APT00222,JSU,Toronto International Airport,Toronto,Canada,UTC-3,True
+APT00223,XVY,Orlando International Airport,Orlando,United States,UTC-2,True
+APT00224,TVE,Oslo International Airport,Oslo,Norway,UTC+0,True
+APT00225,PXX,Philadelphia International Airport,Philadelphia,United States,UTC-9,True
+APT00226,GBN,Riyadh Intl,Riyadh,Saudi Arabia,UTC-10,True
+APT00227,WUC,Denver International Airport,Denver,United States,UTC-11,True
+APT00228,JEA,Zurich International Airport,Zurich,Switzerland,UTC-8,True
+APT00229,PNL,ABU DHABI AIRPORT,Abu Dhabi,United Arab Emirates,UTC+8,True
+APT00230,PTQ,Colombo International Airport,Colombo,Sri Lanka,UTC-5,True
+APT00231,NUT,Las Vegas International Airport,Las Vegas,United States,UTC+0,True
+APT00232,RFR, Houston International Airport ,Houston,United States,UTC+7,True
+APT00233,JED,Mumbai International Airport,Mumbai,India,UTC-7,True
+APT00234,SZW,Mexico City International Airport,Mexico City,Mexico,UTC-8,True
+APT00235,YKE,Phoenix International Airport,Phoenix,United States,UTC+10,True
+APT00236,LEQ,Johannesburg International Airport,Johannesburg,South Africa,UTC-6,True
+APT00237,GTA,Houston International Airport,Houston,United States,UTC+2,True
+APT00238,JTM,Berlin Intl,Berlin,Germany,UTC-11,True
+APT00239,JMQ,Amsterdam International Airport,Amsterdam,Netherlands,UTC-5,True
+APT00240,CVJ,Miami International Airport,Miami,United States,UTC+2,True
+APT00241,DND,Ho Chi Minh City International Airport,Ho Chi Minh City,Vietnam,UTC-4,True
+APT00242,WBJ,Taipei International Airport,Taipei,Taiwan,UTC-11,True
+APT00243,URU,Budapest International Airport,Budapest,Hungary,UTC-7,True
+APT00244,VMW,HO CHI MINH CITY AIRPORT,Ho Chi Minh City,Vietnam,UTC+11,True
+APT00245,MQM,Brussels International Airport,Brussels,Belgium,UTC-7,True
+APT00246,XCK,Portland International Airport,Portland,United States,UTC-7,True
+APT00247,BDR,Bucharest International Airport,Bucharest,Romania,UTC+9,True
+APT00248,FBN,Dublin International Airport,Dublin,Ireland,UTC-3,True
+APT00249,LEV,Bucharest International Airport,Bucharest,Romania,UTC+10,True
+APT00250,UCB,Barcelona International Airport,Barcelona,Spain,UTC-9,True

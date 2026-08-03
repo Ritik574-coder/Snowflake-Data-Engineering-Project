@@ -1,0 +1,21 @@
+airline_id,airline_name,iata_code,country,active_flag
+AL0001,Pacific Aviation,SJ,France,True
+AL0002,Coastal Air,BZ,Vietnam,True
+AL0003,Star Jet,LX,New Zealand,True
+AL0004,Southern Airlines,SU,Russia,True
+AL0005,Regional Jet,UE,United States,True
+AL0006,Alliance Aviation,JM,Sweden,True
+AL0007,Union Aviation,MB,Morocco,True
+AL0008,Regional Airlines,PD,Vietnam,True
+AL0009,Meridian Air,TS,Kenya,True
+AL0010,Regional Airways,YT,Pakistan,True
+AL0011,Northern Jet,JZ,Vietnam,True
+AL0012,Sunrise Aviation,KH,United Arab Emirates,True
+AL0013,Eagle Jet,XJ,United States,True
+AL0014,Blue Air,BM,Portugal,True
+AL0015,Star Airways,VE,Italy,True
+AL0016,Pacific Air,MD,Colombia,True
+AL0017,National Airlines,SM,Brazil,True
+AL0018,Prime Jet,HF,United Kingdom,True
+AL0019,Horizon Aviation,PS,Vietnam,True
+AL0020,Northern Aviation,YL,Germany,True
