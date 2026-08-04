@@ -11,7 +11,10 @@
             Contains raw, source-aligned datasets with minimal transformations.
 ##################################################################################################*/
 
--- Use the SYSADMIN role.
+-- Use the role.
+USE ROLE ACCOUNTADMIN;
+GRANT USAGE ON DATABASE RITSKYSNOW TO ROLE SYSADMIN;
+GRANT CREATE SCHEMA ON DATABASE RITSKYSNOW TO ROLE SYSADMIN;
 USE ROLE SYSADMIN;
 
 -- Create the RitSkySnow database if it does not already exist.
