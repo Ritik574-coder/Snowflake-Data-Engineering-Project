@@ -1,0 +1,56 @@
+product_id,product_name,category_id,category_name,supplier_id,supplier_name,unit_price
+P001,Wireless Keyboard,CAT01,Electronics,SUP008,Harborline Supply,93.02
+P002,Bluetooth Mouse,CAT01,Electronics,SUP005,Crestview Imports,417.15
+P003,27-inch Monitor,CAT01,Electronics,SUP002,BrightPoint Wholesale,355.34
+P004,USB-C Hub,CAT01,Electronics,SUP009,Summit Trade Partners,194.1
+P005,Noise Cancelling Headphones,CAT01,Electronics,SUP006,Oakwood Vendors,306.41
+P006,Portable SSD 1TB,CAT01,Electronics,SUP003,Meridian Supply Co,334.75
+P007,Webcam HD,CAT01,Electronics,SUP010,Cascade Wholesale Group,122.95
+P008,Mechanical Keyboard,CAT01,Electronics,SUP007,Pinnacle Goods Ltd,84.25
+P009,Smart Speaker,CAT01,Electronics,SUP004,Silverline Traders,320.06
+P010,Wireless Charger,CAT01,Electronics,SUP001,Northgate Distributors,181.41
+P011,Office Desk,CAT02,Furniture,SUP008,Harborline Supply,57.81
+P012,Ergonomic Chair,CAT02,Furniture,SUP005,Crestview Imports,256.52
+P013,Bookshelf,CAT02,Furniture,SUP002,BrightPoint Wholesale,131.8
+P014,Filing Cabinet,CAT02,Furniture,SUP009,Summit Trade Partners,462.49
+P015,Standing Desk Converter,CAT02,Furniture,SUP006,Oakwood Vendors,200.84
+P016,Cotton T-Shirt,CAT03,Clothing,SUP003,Meridian Supply Co,76.0
+P017,Denim Jacket,CAT03,Clothing,SUP010,Cascade Wholesale Group,79.96
+P018,Running Shoes,CAT03,Clothing,SUP007,Pinnacle Goods Ltd,29.39
+P019,Wool Sweater,CAT03,Clothing,SUP004,Silverline Traders,63.48
+P020,Rain Jacket,CAT03,Clothing,SUP001,Northgate Distributors,43.08
+P021,Stainless Steel Pan,CAT04,Kitchen,SUP008,Harborline Supply,57.36
+P022,Blender,CAT04,Kitchen,SUP005,Crestview Imports,21.8
+P023,Coffee Maker,CAT04,Kitchen,SUP002,BrightPoint Wholesale,141.47
+P024,Knife Set,CAT04,Kitchen,SUP009,Summit Trade Partners,69.69
+P025,Air Fryer,CAT04,Kitchen,SUP006,Oakwood Vendors,96.6
+P026,Yoga Mat,CAT05,Sports,SUP003,Meridian Supply Co,152.06
+P027,Dumbbell Set,CAT05,Sports,SUP010,Cascade Wholesale Group,186.86
+P028,Tennis Racket,CAT05,Sports,SUP007,Pinnacle Goods Ltd,78.2
+P029,Soccer Ball,CAT05,Sports,SUP004,Silverline Traders,13.85
+P030,Cycling Helmet,CAT05,Sports,SUP001,Northgate Distributors,193.93
+P031,Mystery Novel,CAT06,Books,SUP008,Harborline Supply,13.58
+P032,Cookbook,CAT06,Books,SUP005,Crestview Imports,22.84
+P033,Science Fiction Novel,CAT06,Books,SUP002,BrightPoint Wholesale,34.52
+P034,History Book,CAT06,Books,SUP009,Summit Trade Partners,7.11
+P035,Children's Storybook,CAT06,Books,SUP006,Oakwood Vendors,23.3
+P036,Building Blocks Set,CAT07,Toys,SUP003,Meridian Supply Co,24.01
+P037,Remote Control Car,CAT07,Toys,SUP010,Cascade Wholesale Group,48.25
+P038,Puzzle 1000pc,CAT07,Toys,SUP007,Pinnacle Goods Ltd,29.0
+P039,Action Figure,CAT07,Toys,SUP004,Silverline Traders,59.13
+P040,Board Game,CAT07,Toys,SUP001,Northgate Distributors,11.36
+P041,Moisturizer Cream,CAT08,Beauty,SUP008,Harborline Supply,49.98
+P042,Shampoo,CAT08,Beauty,SUP005,Crestview Imports,14.5
+P043,Perfume,CAT08,Beauty,SUP002,BrightPoint Wholesale,7.22
+P044,Lipstick Set,CAT08,Beauty,SUP009,Summit Trade Partners,26.8
+P045,Sunscreen SPF50,CAT08,Beauty,SUP006,Oakwood Vendors,31.0
+P046,Car Phone Mount,CAT09,Automotive,SUP003,Meridian Supply Co,106.2
+P047,Dash Cam,CAT09,Automotive,SUP010,Cascade Wholesale Group,91.48
+P048,Car Vacuum,CAT09,Automotive,SUP007,Pinnacle Goods Ltd,122.65
+P049,Seat Cover Set,CAT09,Automotive,SUP004,Silverline Traders,97.66
+P050,Tire Pressure Gauge,CAT09,Automotive,SUP001,Northgate Distributors,31.24
+P051,Printer Paper Ream,CAT10,Office Supplies,SUP008,Harborline Supply,21.11
+P052,Stapler,CAT10,Office Supplies,SUP005,Crestview Imports,42.85
+P053,Desk Organizer,CAT10,Office Supplies,SUP002,BrightPoint Wholesale,41.67
+P054,Ballpoint Pen Pack,CAT10,Office Supplies,SUP009,Summit Trade Partners,29.17
+P055,Sticky Notes Pack,CAT10,Office Supplies,SUP006,Oakwood Vendors,30.86

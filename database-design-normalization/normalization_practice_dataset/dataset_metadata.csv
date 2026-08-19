@@ -1,0 +1,16 @@
+dataset_name,description,business_domain,approximate_row_count
+raw/customers.csv,Customer records with denormalized location fields,E-commerce/Retail,100
+raw/suppliers.csv,Supplier records with denormalized location fields,E-commerce/Retail,10
+raw/stores.csv,Store records including manager info,E-commerce/Retail,5
+raw/employees.csv,Employee records with department and store info,E-commerce/Retail,20
+raw/products.csv,Product catalog with category and supplier info,E-commerce/Retail,55
+raw/orders.csv,Order header records with multi-valued item fields (UNF),E-commerce/Retail,200
+raw/order_items.csv,"Order line items, one row per order-product",E-commerce/Retail,448
+advanced/bcnf_practice.csv,Store/product/supplier sourcing records,E-commerce/Retail,40
+advanced/multivalued_dependency.csv,Employee skills and certifications,E-commerce/Retail,50
+advanced/join_dependency.csv,Supplier/product/store distribution records,E-commerce/Retail,21
+advanced/temporal_salary.csv,Employee salary history over time,E-commerce/Retail,16
+advanced/temporal_department.csv,Employee department history over time,E-commerce/Retail,9
+advanced/eknf_practice.csv,Student/subject/teacher enrollment records,Education (standalone example),19
+advanced/etnf_practice.csv,Employee/project/role staffing records,E-commerce/Retail (standalone example),8
+advanced/dknf_practice.csv,Product price and tax records,E-commerce/Retail (standalone example),15

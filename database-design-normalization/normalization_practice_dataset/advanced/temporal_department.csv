@@ -1,0 +1,10 @@
+employee_id,department_id,department_name,valid_from,valid_to
+E016,DPT04,Management,2021-07-10,2022-02-13
+E016,DPT03,Customer Service,2022-02-14,
+E006,DPT04,Management,2021-02-13,2022-02-21
+E006,DPT05,IT Support,2022-02-22,
+E005,DPT05,IT Support,2021-03-16,
+E003,DPT04,Management,2020-06-19,2021-08-21
+E003,DPT03,Customer Service,2021-08-22,
+E015,DPT02,Warehouse,2020-02-01,
+E001,DPT02,Warehouse,2021-09-11,

@@ -1,0 +1,449 @@
+order_id,product_id,product_name,category_id,category_name,quantity,unit_price,line_total
+O0001,P033,Science Fiction Novel,CAT06,Books,3,34.52,103.56
+O0001,P020,Rain Jacket,CAT03,Clothing,2,43.08,86.16
+O0002,P045,Sunscreen SPF50,CAT08,Beauty,1,31.0,31.0
+O0002,P019,Wool Sweater,CAT03,Clothing,1,63.48,63.48
+O0002,P036,Building Blocks Set,CAT07,Toys,2,24.01,48.02
+O0003,P044,Lipstick Set,CAT08,Beauty,3,26.8,80.4
+O0003,P048,Car Vacuum,CAT09,Automotive,3,122.65,367.95
+O0003,P012,Ergonomic Chair,CAT02,Furniture,2,256.52,513.04
+O0004,P020,Rain Jacket,CAT03,Clothing,2,43.08,86.16
+O0005,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0005,P038,Puzzle 1000pc,CAT07,Toys,2,29.0,58.0
+O0005,P039,Action Figure,CAT07,Toys,2,59.13,118.26
+O0006,P044,Lipstick Set,CAT08,Beauty,3,26.8,80.4
+O0006,P014,Filing Cabinet,CAT02,Furniture,1,462.49,462.49
+O0006,P033,Science Fiction Novel,CAT06,Books,3,34.52,103.56
+O0006,P031,Mystery Novel,CAT06,Books,1,13.58,13.58
+O0007,P006,Portable SSD 1TB,CAT01,Electronics,1,334.75,334.75
+O0007,P053,Desk Organizer,CAT10,Office Supplies,3,41.67,125.01
+O0007,P049,Seat Cover Set,CAT09,Automotive,2,97.66,195.32
+O0008,P010,Wireless Charger,CAT01,Electronics,1,181.41,181.41
+O0008,P002,Bluetooth Mouse,CAT01,Electronics,1,417.15,417.15
+O0009,P030,Cycling Helmet,CAT05,Sports,2,193.93,387.86
+O0010,P046,Car Phone Mount,CAT09,Automotive,2,106.2,212.4
+O0010,P045,Sunscreen SPF50,CAT08,Beauty,2,31.0,62.0
+O0011,P010,Wireless Charger,CAT01,Electronics,3,181.41,544.23
+O0011,P042,Shampoo,CAT08,Beauty,1,14.5,14.5
+O0012,P050,Tire Pressure Gauge,CAT09,Automotive,2,31.24,62.48
+O0013,P052,Stapler,CAT10,Office Supplies,3,42.85,128.55
+O0013,P045,Sunscreen SPF50,CAT08,Beauty,2,31.0,62.0
+O0014,P055,Sticky Notes Pack,CAT10,Office Supplies,2,30.86,61.72
+O0014,P008,Mechanical Keyboard,CAT01,Electronics,1,84.25,84.25
+O0015,P043,Perfume,CAT08,Beauty,2,7.22,14.44
+O0015,P034,History Book,CAT06,Books,2,7.11,14.22
+O0015,P036,Building Blocks Set,CAT07,Toys,3,24.01,72.03
+O0015,P039,Action Figure,CAT07,Toys,3,59.13,177.39
+O0016,P054,Ballpoint Pen Pack,CAT10,Office Supplies,1,29.17,29.17
+O0016,P036,Building Blocks Set,CAT07,Toys,3,24.01,72.03
+O0016,P029,Soccer Ball,CAT05,Sports,2,13.85,27.7
+O0017,P049,Seat Cover Set,CAT09,Automotive,3,97.66,292.98
+O0017,P016,Cotton T-Shirt,CAT03,Clothing,2,76.0,152.0
+O0018,P041,Moisturizer Cream,CAT08,Beauty,1,49.98,49.98
+O0018,P016,Cotton T-Shirt,CAT03,Clothing,3,76.0,228.0
+O0018,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0018,P029,Soccer Ball,CAT05,Sports,1,13.85,13.85
+O0019,P021,Stainless Steel Pan,CAT04,Kitchen,1,57.36,57.36
+O0019,P035,Children's Storybook,CAT06,Books,1,23.3,23.3
+O0019,P006,Portable SSD 1TB,CAT01,Electronics,1,334.75,334.75
+O0020,P046,Car Phone Mount,CAT09,Automotive,1,106.2,106.2
+O0020,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0021,P035,Children's Storybook,CAT06,Books,1,23.3,23.3
+O0021,P030,Cycling Helmet,CAT05,Sports,1,193.93,193.93
+O0021,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0022,P055,Sticky Notes Pack,CAT10,Office Supplies,3,30.86,92.58
+O0023,P001,Wireless Keyboard,CAT01,Electronics,2,93.02,186.04
+O0023,P023,Coffee Maker,CAT04,Kitchen,2,141.47,282.94
+O0023,P020,Rain Jacket,CAT03,Clothing,3,43.08,129.24
+O0023,P049,Seat Cover Set,CAT09,Automotive,3,97.66,292.98
+O0024,P032,Cookbook,CAT06,Books,2,22.84,45.68
+O0024,P015,Standing Desk Converter,CAT02,Furniture,2,200.84,401.68
+O0025,P025,Air Fryer,CAT04,Kitchen,2,96.6,193.2
+O0026,P047,Dash Cam,CAT09,Automotive,2,91.48,182.96
+O0026,P011,Office Desk,CAT02,Furniture,1,57.81,57.81
+O0026,P054,Ballpoint Pen Pack,CAT10,Office Supplies,3,29.17,87.51
+O0027,P026,Yoga Mat,CAT05,Sports,3,152.06,456.18
+O0028,P006,Portable SSD 1TB,CAT01,Electronics,3,334.75,1004.25
+O0029,P030,Cycling Helmet,CAT05,Sports,1,193.93,193.93
+O0029,P012,Ergonomic Chair,CAT02,Furniture,2,256.52,513.04
+O0030,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0030,P030,Cycling Helmet,CAT05,Sports,2,193.93,387.86
+O0030,P021,Stainless Steel Pan,CAT04,Kitchen,2,57.36,114.72
+O0031,P017,Denim Jacket,CAT03,Clothing,2,79.96,159.92
+O0031,P054,Ballpoint Pen Pack,CAT10,Office Supplies,1,29.17,29.17
+O0031,P006,Portable SSD 1TB,CAT01,Electronics,3,334.75,1004.25
+O0032,P023,Coffee Maker,CAT04,Kitchen,1,141.47,141.47
+O0033,P050,Tire Pressure Gauge,CAT09,Automotive,3,31.24,93.72
+O0034,P016,Cotton T-Shirt,CAT03,Clothing,1,76.0,76.0
+O0035,P040,Board Game,CAT07,Toys,1,11.36,11.36
+O0036,P031,Mystery Novel,CAT06,Books,1,13.58,13.58
+O0036,P043,Perfume,CAT08,Beauty,3,7.22,21.66
+O0037,P045,Sunscreen SPF50,CAT08,Beauty,1,31.0,31.0
+O0037,P017,Denim Jacket,CAT03,Clothing,3,79.96,239.88
+O0037,P050,Tire Pressure Gauge,CAT09,Automotive,3,31.24,93.72
+O0037,P024,Knife Set,CAT04,Kitchen,3,69.69,209.07
+O0038,P050,Tire Pressure Gauge,CAT09,Automotive,1,31.24,31.24
+O0039,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0040,P026,Yoga Mat,CAT05,Sports,1,152.06,152.06
+O0040,P046,Car Phone Mount,CAT09,Automotive,3,106.2,318.6
+O0040,P013,Bookshelf,CAT02,Furniture,3,131.8,395.4
+O0041,P007,Webcam HD,CAT01,Electronics,2,122.95,245.9
+O0041,P045,Sunscreen SPF50,CAT08,Beauty,3,31.0,93.0
+O0042,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0043,P023,Coffee Maker,CAT04,Kitchen,3,141.47,424.41
+O0044,P005,Noise Cancelling Headphones,CAT01,Electronics,2,306.41,612.82
+O0044,P033,Science Fiction Novel,CAT06,Books,1,34.52,34.52
+O0044,P042,Shampoo,CAT08,Beauty,2,14.5,29.0
+O0045,P007,Webcam HD,CAT01,Electronics,2,122.95,245.9
+O0045,P028,Tennis Racket,CAT05,Sports,3,78.2,234.6
+O0045,P024,Knife Set,CAT04,Kitchen,1,69.69,69.69
+O0045,P041,Moisturizer Cream,CAT08,Beauty,2,49.98,99.96
+O0046,P040,Board Game,CAT07,Toys,3,11.36,34.08
+O0046,P052,Stapler,CAT10,Office Supplies,2,42.85,85.7
+O0047,P053,Desk Organizer,CAT10,Office Supplies,2,41.67,83.34
+O0047,P047,Dash Cam,CAT09,Automotive,2,91.48,182.96
+O0047,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0048,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0049,P037,Remote Control Car,CAT07,Toys,2,48.25,96.5
+O0049,P040,Board Game,CAT07,Toys,1,11.36,11.36
+O0049,P043,Perfume,CAT08,Beauty,2,7.22,14.44
+O0049,P025,Air Fryer,CAT04,Kitchen,2,96.6,193.2
+O0050,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0050,P023,Coffee Maker,CAT04,Kitchen,2,141.47,282.94
+O0050,P052,Stapler,CAT10,Office Supplies,3,42.85,128.55
+O0050,P017,Denim Jacket,CAT03,Clothing,3,79.96,239.88
+O0051,P036,Building Blocks Set,CAT07,Toys,3,24.01,72.03
+O0051,P001,Wireless Keyboard,CAT01,Electronics,1,93.02,93.02
+O0052,P047,Dash Cam,CAT09,Automotive,2,91.48,182.96
+O0052,P027,Dumbbell Set,CAT05,Sports,3,186.86,560.58
+O0053,P045,Sunscreen SPF50,CAT08,Beauty,3,31.0,93.0
+O0053,P031,Mystery Novel,CAT06,Books,3,13.58,40.74
+O0054,P051,Printer Paper Ream,CAT10,Office Supplies,1,21.11,21.11
+O0054,P002,Bluetooth Mouse,CAT01,Electronics,2,417.15,834.3
+O0054,P006,Portable SSD 1TB,CAT01,Electronics,3,334.75,1004.25
+O0054,P019,Wool Sweater,CAT03,Clothing,1,63.48,63.48
+O0055,P031,Mystery Novel,CAT06,Books,2,13.58,27.16
+O0055,P036,Building Blocks Set,CAT07,Toys,2,24.01,48.02
+O0055,P034,History Book,CAT06,Books,3,7.11,21.33
+O0056,P023,Coffee Maker,CAT04,Kitchen,2,141.47,282.94
+O0056,P045,Sunscreen SPF50,CAT08,Beauty,2,31.0,62.0
+O0056,P030,Cycling Helmet,CAT05,Sports,2,193.93,387.86
+O0057,P047,Dash Cam,CAT09,Automotive,1,91.48,91.48
+O0058,P048,Car Vacuum,CAT09,Automotive,3,122.65,367.95
+O0059,P013,Bookshelf,CAT02,Furniture,3,131.8,395.4
+O0059,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0060,P007,Webcam HD,CAT01,Electronics,1,122.95,122.95
+O0060,P054,Ballpoint Pen Pack,CAT10,Office Supplies,2,29.17,58.34
+O0061,P012,Ergonomic Chair,CAT02,Furniture,3,256.52,769.56
+O0061,P020,Rain Jacket,CAT03,Clothing,3,43.08,129.24
+O0061,P001,Wireless Keyboard,CAT01,Electronics,1,93.02,93.02
+O0062,P004,USB-C Hub,CAT01,Electronics,3,194.1,582.3
+O0063,P041,Moisturizer Cream,CAT08,Beauty,2,49.98,99.96
+O0063,P049,Seat Cover Set,CAT09,Automotive,1,97.66,97.66
+O0064,P037,Remote Control Car,CAT07,Toys,2,48.25,96.5
+O0065,P029,Soccer Ball,CAT05,Sports,2,13.85,27.7
+O0065,P022,Blender,CAT04,Kitchen,2,21.8,43.6
+O0065,P012,Ergonomic Chair,CAT02,Furniture,1,256.52,256.52
+O0065,P004,USB-C Hub,CAT01,Electronics,1,194.1,194.1
+O0066,P005,Noise Cancelling Headphones,CAT01,Electronics,1,306.41,306.41
+O0066,P037,Remote Control Car,CAT07,Toys,1,48.25,48.25
+O0066,P041,Moisturizer Cream,CAT08,Beauty,1,49.98,49.98
+O0066,P044,Lipstick Set,CAT08,Beauty,3,26.8,80.4
+O0067,P016,Cotton T-Shirt,CAT03,Clothing,1,76.0,76.0
+O0068,P039,Action Figure,CAT07,Toys,1,59.13,59.13
+O0068,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0068,P040,Board Game,CAT07,Toys,2,11.36,22.72
+O0069,P020,Rain Jacket,CAT03,Clothing,3,43.08,129.24
+O0069,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0069,P028,Tennis Racket,CAT05,Sports,3,78.2,234.6
+O0069,P037,Remote Control Car,CAT07,Toys,3,48.25,144.75
+O0070,P041,Moisturizer Cream,CAT08,Beauty,2,49.98,99.96
+O0070,P014,Filing Cabinet,CAT02,Furniture,3,462.49,1387.47
+O0071,P016,Cotton T-Shirt,CAT03,Clothing,3,76.0,228.0
+O0071,P012,Ergonomic Chair,CAT02,Furniture,1,256.52,256.52
+O0072,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0073,P019,Wool Sweater,CAT03,Clothing,2,63.48,126.96
+O0073,P003,27-inch Monitor,CAT01,Electronics,3,355.34,1066.02
+O0073,P015,Standing Desk Converter,CAT02,Furniture,2,200.84,401.68
+O0073,P046,Car Phone Mount,CAT09,Automotive,1,106.2,106.2
+O0074,P017,Denim Jacket,CAT03,Clothing,3,79.96,239.88
+O0074,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0075,P028,Tennis Racket,CAT05,Sports,3,78.2,234.6
+O0075,P008,Mechanical Keyboard,CAT01,Electronics,1,84.25,84.25
+O0076,P018,Running Shoes,CAT03,Clothing,1,29.39,29.39
+O0076,P053,Desk Organizer,CAT10,Office Supplies,1,41.67,41.67
+O0077,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0077,P020,Rain Jacket,CAT03,Clothing,3,43.08,129.24
+O0078,P029,Soccer Ball,CAT05,Sports,2,13.85,27.7
+O0078,P008,Mechanical Keyboard,CAT01,Electronics,3,84.25,252.75
+O0079,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0079,P033,Science Fiction Novel,CAT06,Books,2,34.52,69.04
+O0079,P035,Children's Storybook,CAT06,Books,1,23.3,23.3
+O0080,P028,Tennis Racket,CAT05,Sports,3,78.2,234.6
+O0081,P002,Bluetooth Mouse,CAT01,Electronics,1,417.15,417.15
+O0081,P006,Portable SSD 1TB,CAT01,Electronics,3,334.75,1004.25
+O0082,P049,Seat Cover Set,CAT09,Automotive,3,97.66,292.98
+O0083,P037,Remote Control Car,CAT07,Toys,1,48.25,48.25
+O0083,P003,27-inch Monitor,CAT01,Electronics,2,355.34,710.68
+O0084,P018,Running Shoes,CAT03,Clothing,3,29.39,88.17
+O0084,P012,Ergonomic Chair,CAT02,Furniture,2,256.52,513.04
+O0084,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0084,P028,Tennis Racket,CAT05,Sports,2,78.2,156.4
+O0085,P022,Blender,CAT04,Kitchen,1,21.8,21.8
+O0085,P021,Stainless Steel Pan,CAT04,Kitchen,1,57.36,57.36
+O0085,P043,Perfume,CAT08,Beauty,2,7.22,14.44
+O0086,P019,Wool Sweater,CAT03,Clothing,3,63.48,190.44
+O0086,P043,Perfume,CAT08,Beauty,1,7.22,7.22
+O0086,P026,Yoga Mat,CAT05,Sports,2,152.06,304.12
+O0086,P053,Desk Organizer,CAT10,Office Supplies,1,41.67,41.67
+O0087,P021,Stainless Steel Pan,CAT04,Kitchen,2,57.36,114.72
+O0087,P008,Mechanical Keyboard,CAT01,Electronics,3,84.25,252.75
+O0088,P043,Perfume,CAT08,Beauty,3,7.22,21.66
+O0089,P004,USB-C Hub,CAT01,Electronics,2,194.1,388.2
+O0089,P013,Bookshelf,CAT02,Furniture,3,131.8,395.4
+O0089,P034,History Book,CAT06,Books,2,7.11,14.22
+O0090,P049,Seat Cover Set,CAT09,Automotive,3,97.66,292.98
+O0090,P004,USB-C Hub,CAT01,Electronics,1,194.1,194.1
+O0090,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0090,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0091,P008,Mechanical Keyboard,CAT01,Electronics,1,84.25,84.25
+O0091,P002,Bluetooth Mouse,CAT01,Electronics,3,417.15,1251.45
+O0091,P041,Moisturizer Cream,CAT08,Beauty,1,49.98,49.98
+O0091,P039,Action Figure,CAT07,Toys,2,59.13,118.26
+O0092,P036,Building Blocks Set,CAT07,Toys,2,24.01,48.02
+O0093,P054,Ballpoint Pen Pack,CAT10,Office Supplies,2,29.17,58.34
+O0093,P008,Mechanical Keyboard,CAT01,Electronics,1,84.25,84.25
+O0094,P032,Cookbook,CAT06,Books,2,22.84,45.68
+O0094,P046,Car Phone Mount,CAT09,Automotive,3,106.2,318.6
+O0095,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0095,P054,Ballpoint Pen Pack,CAT10,Office Supplies,2,29.17,58.34
+O0096,P036,Building Blocks Set,CAT07,Toys,3,24.01,72.03
+O0096,P010,Wireless Charger,CAT01,Electronics,3,181.41,544.23
+O0096,P025,Air Fryer,CAT04,Kitchen,3,96.6,289.8
+O0096,P013,Bookshelf,CAT02,Furniture,1,131.8,131.8
+O0097,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0098,P053,Desk Organizer,CAT10,Office Supplies,2,41.67,83.34
+O0098,P001,Wireless Keyboard,CAT01,Electronics,3,93.02,279.06
+O0099,P010,Wireless Charger,CAT01,Electronics,2,181.41,362.82
+O0099,P029,Soccer Ball,CAT05,Sports,2,13.85,27.7
+O0099,P035,Children's Storybook,CAT06,Books,3,23.3,69.9
+O0099,P031,Mystery Novel,CAT06,Books,3,13.58,40.74
+O0100,P021,Stainless Steel Pan,CAT04,Kitchen,3,57.36,172.08
+O0100,P013,Bookshelf,CAT02,Furniture,2,131.8,263.6
+O0100,P045,Sunscreen SPF50,CAT08,Beauty,1,31.0,31.0
+O0100,P016,Cotton T-Shirt,CAT03,Clothing,2,76.0,152.0
+O0101,P048,Car Vacuum,CAT09,Automotive,2,122.65,245.3
+O0101,P031,Mystery Novel,CAT06,Books,2,13.58,27.16
+O0101,P046,Car Phone Mount,CAT09,Automotive,3,106.2,318.6
+O0102,P032,Cookbook,CAT06,Books,1,22.84,22.84
+O0102,P003,27-inch Monitor,CAT01,Electronics,3,355.34,1066.02
+O0103,P007,Webcam HD,CAT01,Electronics,1,122.95,122.95
+O0103,P055,Sticky Notes Pack,CAT10,Office Supplies,3,30.86,92.58
+O0103,P029,Soccer Ball,CAT05,Sports,2,13.85,27.7
+O0104,P027,Dumbbell Set,CAT05,Sports,1,186.86,186.86
+O0104,P042,Shampoo,CAT08,Beauty,1,14.5,14.5
+O0105,P022,Blender,CAT04,Kitchen,3,21.8,65.4
+O0105,P040,Board Game,CAT07,Toys,2,11.36,22.72
+O0106,P055,Sticky Notes Pack,CAT10,Office Supplies,2,30.86,61.72
+O0107,P021,Stainless Steel Pan,CAT04,Kitchen,2,57.36,114.72
+O0107,P041,Moisturizer Cream,CAT08,Beauty,3,49.98,149.94
+O0107,P046,Car Phone Mount,CAT09,Automotive,1,106.2,106.2
+O0108,P016,Cotton T-Shirt,CAT03,Clothing,3,76.0,228.0
+O0109,P015,Standing Desk Converter,CAT02,Furniture,1,200.84,200.84
+O0109,P048,Car Vacuum,CAT09,Automotive,2,122.65,245.3
+O0110,P029,Soccer Ball,CAT05,Sports,1,13.85,13.85
+O0111,P002,Bluetooth Mouse,CAT01,Electronics,2,417.15,834.3
+O0111,P003,27-inch Monitor,CAT01,Electronics,1,355.34,355.34
+O0112,P024,Knife Set,CAT04,Kitchen,1,69.69,69.69
+O0112,P028,Tennis Racket,CAT05,Sports,3,78.2,234.6
+O0112,P010,Wireless Charger,CAT01,Electronics,2,181.41,362.82
+O0113,P011,Office Desk,CAT02,Furniture,1,57.81,57.81
+O0113,P012,Ergonomic Chair,CAT02,Furniture,3,256.52,769.56
+O0114,P040,Board Game,CAT07,Toys,2,11.36,22.72
+O0114,P044,Lipstick Set,CAT08,Beauty,3,26.8,80.4
+O0114,P016,Cotton T-Shirt,CAT03,Clothing,1,76.0,76.0
+O0115,P041,Moisturizer Cream,CAT08,Beauty,1,49.98,49.98
+O0115,P017,Denim Jacket,CAT03,Clothing,2,79.96,159.92
+O0115,P030,Cycling Helmet,CAT05,Sports,2,193.93,387.86
+O0115,P043,Perfume,CAT08,Beauty,3,7.22,21.66
+O0116,P005,Noise Cancelling Headphones,CAT01,Electronics,2,306.41,612.82
+O0116,P029,Soccer Ball,CAT05,Sports,3,13.85,41.55
+O0117,P045,Sunscreen SPF50,CAT08,Beauty,2,31.0,62.0
+O0117,P017,Denim Jacket,CAT03,Clothing,1,79.96,79.96
+O0117,P030,Cycling Helmet,CAT05,Sports,2,193.93,387.86
+O0118,P007,Webcam HD,CAT01,Electronics,2,122.95,245.9
+O0118,P016,Cotton T-Shirt,CAT03,Clothing,3,76.0,228.0
+O0118,P025,Air Fryer,CAT04,Kitchen,2,96.6,193.2
+O0118,P037,Remote Control Car,CAT07,Toys,3,48.25,144.75
+O0119,P054,Ballpoint Pen Pack,CAT10,Office Supplies,3,29.17,87.51
+O0120,P001,Wireless Keyboard,CAT01,Electronics,3,93.02,279.06
+O0120,P037,Remote Control Car,CAT07,Toys,3,48.25,144.75
+O0121,P054,Ballpoint Pen Pack,CAT10,Office Supplies,1,29.17,29.17
+O0121,P019,Wool Sweater,CAT03,Clothing,3,63.48,190.44
+O0121,P050,Tire Pressure Gauge,CAT09,Automotive,2,31.24,62.48
+O0121,P052,Stapler,CAT10,Office Supplies,1,42.85,42.85
+O0122,P040,Board Game,CAT07,Toys,3,11.36,34.08
+O0122,P017,Denim Jacket,CAT03,Clothing,3,79.96,239.88
+O0123,P041,Moisturizer Cream,CAT08,Beauty,3,49.98,149.94
+O0123,P007,Webcam HD,CAT01,Electronics,3,122.95,368.85
+O0124,P051,Printer Paper Ream,CAT10,Office Supplies,1,21.11,21.11
+O0124,P029,Soccer Ball,CAT05,Sports,3,13.85,41.55
+O0125,P006,Portable SSD 1TB,CAT01,Electronics,2,334.75,669.5
+O0125,P019,Wool Sweater,CAT03,Clothing,3,63.48,190.44
+O0126,P013,Bookshelf,CAT02,Furniture,3,131.8,395.4
+O0126,P009,Smart Speaker,CAT01,Electronics,2,320.06,640.12
+O0127,P054,Ballpoint Pen Pack,CAT10,Office Supplies,2,29.17,58.34
+O0127,P011,Office Desk,CAT02,Furniture,2,57.81,115.62
+O0128,P048,Car Vacuum,CAT09,Automotive,1,122.65,122.65
+O0128,P022,Blender,CAT04,Kitchen,2,21.8,43.6
+O0129,P049,Seat Cover Set,CAT09,Automotive,3,97.66,292.98
+O0129,P015,Standing Desk Converter,CAT02,Furniture,3,200.84,602.52
+O0130,P055,Sticky Notes Pack,CAT10,Office Supplies,2,30.86,61.72
+O0130,P052,Stapler,CAT10,Office Supplies,1,42.85,42.85
+O0130,P036,Building Blocks Set,CAT07,Toys,2,24.01,48.02
+O0131,P035,Children's Storybook,CAT06,Books,2,23.3,46.6
+O0131,P008,Mechanical Keyboard,CAT01,Electronics,2,84.25,168.5
+O0132,P038,Puzzle 1000pc,CAT07,Toys,3,29.0,87.0
+O0132,P025,Air Fryer,CAT04,Kitchen,2,96.6,193.2
+O0133,P031,Mystery Novel,CAT06,Books,3,13.58,40.74
+O0133,P002,Bluetooth Mouse,CAT01,Electronics,3,417.15,1251.45
+O0134,P042,Shampoo,CAT08,Beauty,3,14.5,43.5
+O0134,P005,Noise Cancelling Headphones,CAT01,Electronics,2,306.41,612.82
+O0135,P042,Shampoo,CAT08,Beauty,1,14.5,14.5
+O0135,P027,Dumbbell Set,CAT05,Sports,1,186.86,186.86
+O0136,P020,Rain Jacket,CAT03,Clothing,2,43.08,86.16
+O0137,P016,Cotton T-Shirt,CAT03,Clothing,3,76.0,228.0
+O0138,P030,Cycling Helmet,CAT05,Sports,3,193.93,581.79
+O0138,P024,Knife Set,CAT04,Kitchen,3,69.69,209.07
+O0138,P043,Perfume,CAT08,Beauty,3,7.22,21.66
+O0139,P027,Dumbbell Set,CAT05,Sports,1,186.86,186.86
+O0139,P042,Shampoo,CAT08,Beauty,2,14.5,29.0
+O0140,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0140,P003,27-inch Monitor,CAT01,Electronics,1,355.34,355.34
+O0140,P045,Sunscreen SPF50,CAT08,Beauty,2,31.0,62.0
+O0141,P055,Sticky Notes Pack,CAT10,Office Supplies,1,30.86,30.86
+O0141,P024,Knife Set,CAT04,Kitchen,3,69.69,209.07
+O0142,P004,USB-C Hub,CAT01,Electronics,1,194.1,194.1
+O0142,P026,Yoga Mat,CAT05,Sports,1,152.06,152.06
+O0142,P018,Running Shoes,CAT03,Clothing,2,29.39,58.78
+O0143,P042,Shampoo,CAT08,Beauty,3,14.5,43.5
+O0143,P041,Moisturizer Cream,CAT08,Beauty,1,49.98,49.98
+O0144,P016,Cotton T-Shirt,CAT03,Clothing,3,76.0,228.0
+O0144,P009,Smart Speaker,CAT01,Electronics,1,320.06,320.06
+O0144,P051,Printer Paper Ream,CAT10,Office Supplies,1,21.11,21.11
+O0145,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0145,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0146,P051,Printer Paper Ream,CAT10,Office Supplies,1,21.11,21.11
+O0146,P039,Action Figure,CAT07,Toys,2,59.13,118.26
+O0147,P009,Smart Speaker,CAT01,Electronics,2,320.06,640.12
+O0147,P035,Children's Storybook,CAT06,Books,1,23.3,23.3
+O0148,P009,Smart Speaker,CAT01,Electronics,1,320.06,320.06
+O0149,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0149,P021,Stainless Steel Pan,CAT04,Kitchen,1,57.36,57.36
+O0150,P009,Smart Speaker,CAT01,Electronics,3,320.06,960.18
+O0151,P048,Car Vacuum,CAT09,Automotive,1,122.65,122.65
+O0152,P050,Tire Pressure Gauge,CAT09,Automotive,1,31.24,31.24
+O0152,P024,Knife Set,CAT04,Kitchen,2,69.69,139.38
+O0152,P033,Science Fiction Novel,CAT06,Books,3,34.52,103.56
+O0152,P038,Puzzle 1000pc,CAT07,Toys,1,29.0,29.0
+O0153,P047,Dash Cam,CAT09,Automotive,3,91.48,274.44
+O0154,P030,Cycling Helmet,CAT05,Sports,1,193.93,193.93
+O0154,P042,Shampoo,CAT08,Beauty,1,14.5,14.5
+O0155,P028,Tennis Racket,CAT05,Sports,2,78.2,156.4
+O0155,P044,Lipstick Set,CAT08,Beauty,3,26.8,80.4
+O0155,P007,Webcam HD,CAT01,Electronics,2,122.95,245.9
+O0156,P021,Stainless Steel Pan,CAT04,Kitchen,3,57.36,172.08
+O0157,P009,Smart Speaker,CAT01,Electronics,2,320.06,640.12
+O0158,P025,Air Fryer,CAT04,Kitchen,2,96.6,193.2
+O0158,P039,Action Figure,CAT07,Toys,2,59.13,118.26
+O0158,P034,History Book,CAT06,Books,3,7.11,21.33
+O0159,P007,Webcam HD,CAT01,Electronics,1,122.95,122.95
+O0159,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0159,P045,Sunscreen SPF50,CAT08,Beauty,3,31.0,93.0
+O0160,P028,Tennis Racket,CAT05,Sports,1,78.2,78.2
+O0160,P029,Soccer Ball,CAT05,Sports,2,13.85,27.7
+O0161,P026,Yoga Mat,CAT05,Sports,2,152.06,304.12
+O0161,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0161,P047,Dash Cam,CAT09,Automotive,2,91.48,182.96
+O0161,P007,Webcam HD,CAT01,Electronics,3,122.95,368.85
+O0162,P010,Wireless Charger,CAT01,Electronics,1,181.41,181.41
+O0162,P044,Lipstick Set,CAT08,Beauty,1,26.8,26.8
+O0162,P031,Mystery Novel,CAT06,Books,1,13.58,13.58
+O0163,P007,Webcam HD,CAT01,Electronics,1,122.95,122.95
+O0163,P048,Car Vacuum,CAT09,Automotive,3,122.65,367.95
+O0163,P024,Knife Set,CAT04,Kitchen,1,69.69,69.69
+O0164,P043,Perfume,CAT08,Beauty,2,7.22,14.44
+O0164,P008,Mechanical Keyboard,CAT01,Electronics,3,84.25,252.75
+O0164,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0165,P019,Wool Sweater,CAT03,Clothing,3,63.48,190.44
+O0166,P007,Webcam HD,CAT01,Electronics,1,122.95,122.95
+O0166,P037,Remote Control Car,CAT07,Toys,1,48.25,48.25
+O0166,P033,Science Fiction Novel,CAT06,Books,3,34.52,103.56
+O0167,P055,Sticky Notes Pack,CAT10,Office Supplies,2,30.86,61.72
+O0167,P007,Webcam HD,CAT01,Electronics,3,122.95,368.85
+O0168,P049,Seat Cover Set,CAT09,Automotive,2,97.66,195.32
+O0169,P052,Stapler,CAT10,Office Supplies,3,42.85,128.55
+O0169,P028,Tennis Racket,CAT05,Sports,3,78.2,234.6
+O0170,P039,Action Figure,CAT07,Toys,3,59.13,177.39
+O0171,P002,Bluetooth Mouse,CAT01,Electronics,2,417.15,834.3
+O0171,P012,Ergonomic Chair,CAT02,Furniture,3,256.52,769.56
+O0172,P022,Blender,CAT04,Kitchen,1,21.8,21.8
+O0172,P023,Coffee Maker,CAT04,Kitchen,1,141.47,141.47
+O0173,P037,Remote Control Car,CAT07,Toys,2,48.25,96.5
+O0173,P043,Perfume,CAT08,Beauty,1,7.22,7.22
+O0174,P006,Portable SSD 1TB,CAT01,Electronics,3,334.75,1004.25
+O0175,P025,Air Fryer,CAT04,Kitchen,2,96.6,193.2
+O0175,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0176,P020,Rain Jacket,CAT03,Clothing,3,43.08,129.24
+O0176,P047,Dash Cam,CAT09,Automotive,3,91.48,274.44
+O0176,P021,Stainless Steel Pan,CAT04,Kitchen,1,57.36,57.36
+O0177,P010,Wireless Charger,CAT01,Electronics,1,181.41,181.41
+O0178,P044,Lipstick Set,CAT08,Beauty,1,26.8,26.8
+O0179,P043,Perfume,CAT08,Beauty,2,7.22,14.44
+O0179,P028,Tennis Racket,CAT05,Sports,2,78.2,156.4
+O0179,P032,Cookbook,CAT06,Books,2,22.84,45.68
+O0179,P039,Action Figure,CAT07,Toys,1,59.13,59.13
+O0180,P023,Coffee Maker,CAT04,Kitchen,2,141.47,282.94
+O0181,P044,Lipstick Set,CAT08,Beauty,2,26.8,53.6
+O0181,P038,Puzzle 1000pc,CAT07,Toys,3,29.0,87.0
+O0182,P003,27-inch Monitor,CAT01,Electronics,2,355.34,710.68
+O0182,P015,Standing Desk Converter,CAT02,Furniture,3,200.84,602.52
+O0183,P014,Filing Cabinet,CAT02,Furniture,2,462.49,924.98
+O0184,P049,Seat Cover Set,CAT09,Automotive,2,97.66,195.32
+O0184,P017,Denim Jacket,CAT03,Clothing,2,79.96,159.92
+O0185,P032,Cookbook,CAT06,Books,3,22.84,68.52
+O0186,P009,Smart Speaker,CAT01,Electronics,3,320.06,960.18
+O0186,P025,Air Fryer,CAT04,Kitchen,3,96.6,289.8
+O0187,P005,Noise Cancelling Headphones,CAT01,Electronics,1,306.41,306.41
+O0187,P026,Yoga Mat,CAT05,Sports,2,152.06,304.12
+O0187,P048,Car Vacuum,CAT09,Automotive,1,122.65,122.65
+O0188,P021,Stainless Steel Pan,CAT04,Kitchen,3,57.36,172.08
+O0189,P046,Car Phone Mount,CAT09,Automotive,2,106.2,212.4
+O0189,P041,Moisturizer Cream,CAT08,Beauty,1,49.98,49.98
+O0189,P027,Dumbbell Set,CAT05,Sports,2,186.86,373.72
+O0190,P011,Office Desk,CAT02,Furniture,2,57.81,115.62
+O0190,P052,Stapler,CAT10,Office Supplies,3,42.85,128.55
+O0190,P040,Board Game,CAT07,Toys,2,11.36,22.72
+O0191,P055,Sticky Notes Pack,CAT10,Office Supplies,2,30.86,61.72
+O0191,P007,Webcam HD,CAT01,Electronics,3,122.95,368.85
+O0191,P016,Cotton T-Shirt,CAT03,Clothing,2,76.0,152.0
+O0192,P026,Yoga Mat,CAT05,Sports,2,152.06,304.12
+O0193,P015,Standing Desk Converter,CAT02,Furniture,1,200.84,200.84
+O0193,P022,Blender,CAT04,Kitchen,1,21.8,21.8
+O0193,P050,Tire Pressure Gauge,CAT09,Automotive,3,31.24,93.72
+O0194,P034,History Book,CAT06,Books,3,7.11,21.33
+O0195,P023,Coffee Maker,CAT04,Kitchen,3,141.47,424.41
+O0195,P047,Dash Cam,CAT09,Automotive,1,91.48,91.48
+O0195,P053,Desk Organizer,CAT10,Office Supplies,1,41.67,41.67
+O0196,P017,Denim Jacket,CAT03,Clothing,1,79.96,79.96
+O0196,P013,Bookshelf,CAT02,Furniture,3,131.8,395.4
+O0197,P012,Ergonomic Chair,CAT02,Furniture,3,256.52,769.56
+O0198,P049,Seat Cover Set,CAT09,Automotive,3,97.66,292.98
+O0198,P037,Remote Control Car,CAT07,Toys,3,48.25,144.75
+O0198,P038,Puzzle 1000pc,CAT07,Toys,3,29.0,87.0
+O0198,P029,Soccer Ball,CAT05,Sports,3,13.85,41.55
+O0199,P041,Moisturizer Cream,CAT08,Beauty,2,49.98,99.96
+O0199,P021,Stainless Steel Pan,CAT04,Kitchen,1,57.36,57.36
+O0199,P010,Wireless Charger,CAT01,Electronics,2,181.41,362.82
+O0200,P051,Printer Paper Ream,CAT10,Office Supplies,3,21.11,63.33
+O0200,P018,Running Shoes,CAT03,Clothing,1,29.39,29.39

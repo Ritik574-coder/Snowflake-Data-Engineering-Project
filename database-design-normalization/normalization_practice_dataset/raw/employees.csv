@@ -1,0 +1,21 @@
+employee_id,employee_name,department_id,department_name,store_id,store_name,hire_date,salary
+E001,James Smith,DPT02,Warehouse,ST02,Westside Retail Center,2025-03-04,42000
+E002,Maria Johnson,DPT03,Customer Service,ST03,Lakeside Mall Branch,2018-04-13,52000
+E003,Robert Williams,DPT04,Management,ST04,Riverside Outlet,2020-09-30,48000
+E004,Linda Brown,DPT05,IT Support,ST05,North Hub Store,2019-07-26,42000
+E005,Michael Jones,DPT01,Sales,ST01,Downtown Flagship Store,2024-02-12,42000
+E006,Patricia Garcia,DPT02,Warehouse,ST02,Westside Retail Center,2024-08-15,60000
+E007,David Miller,DPT03,Customer Service,ST03,Lakeside Mall Branch,2018-05-11,38000
+E008,Jennifer Davis,DPT04,Management,ST04,Riverside Outlet,2019-01-19,48000
+E009,William Rodriguez,DPT05,IT Support,ST05,North Hub Store,2020-08-10,72000
+E010,Elizabeth Martinez,DPT01,Sales,ST01,Downtown Flagship Store,2024-10-01,38000
+E011,Richard Wilson,DPT02,Warehouse,ST02,Westside Retail Center,2024-04-17,48000
+E012,Susan Anderson,DPT03,Customer Service,ST03,Lakeside Mall Branch,2025-04-15,72000
+E013,Joseph Taylor,DPT04,Management,ST04,Riverside Outlet,2022-09-15,48000
+E014,Jessica Thomas,DPT05,IT Support,ST05,North Hub Store,2023-01-14,80000
+E015,Thomas Moore,DPT01,Sales,ST01,Downtown Flagship Store,2021-02-13,38000
+E016,Sarah Jackson,DPT02,Warehouse,ST02,Westside Retail Center,2019-10-16,60000
+E017,Charles Martin,DPT03,Customer Service,ST03,Lakeside Mall Branch,2021-10-25,52000
+E018,Karen Lee,DPT04,Management,ST04,Riverside Outlet,2019-09-29,48000
+E019,Daniel Perez,DPT05,IT Support,ST05,North Hub Store,2021-10-10,42000
+E020,Nancy Thompson,DPT01,Sales,ST01,Downtown Flagship Store,2019-01-15,60000
