@@ -1,0 +1,51 @@
+employee_id,employee_name,skill,certification
+E008,Jennifer Davis,Customer Support,Six Sigma Green Belt
+E008,Jennifer Davis,Customer Support,PMP
+E008,Jennifer Davis,Customer Support,ITIL Foundation
+E008,Jennifer Davis,Excel,Six Sigma Green Belt
+E008,Jennifer Davis,Excel,PMP
+E008,Jennifer Davis,Excel,ITIL Foundation
+E008,Jennifer Davis,Java,Six Sigma Green Belt
+E008,Jennifer Davis,Java,PMP
+E008,Jennifer Davis,Java,ITIL Foundation
+E015,Thomas Moore,Excel,PMP
+E015,Thomas Moore,Excel,AWS Certified
+E015,Thomas Moore,Data Analysis,PMP
+E015,Thomas Moore,Data Analysis,AWS Certified
+E015,Thomas Moore,Python,PMP
+E015,Thomas Moore,Python,AWS Certified
+E010,Elizabeth Martinez,Java,PMP
+E010,Elizabeth Martinez,Java,AWS Certified
+E010,Elizabeth Martinez,Inventory Management,PMP
+E010,Elizabeth Martinez,Inventory Management,AWS Certified
+E010,Elizabeth Martinez,SQL,PMP
+E010,Elizabeth Martinez,SQL,AWS Certified
+E019,Daniel Perez,Inventory Management,Six Sigma Green Belt
+E019,Daniel Perez,Inventory Management,AWS Certified
+E019,Daniel Perez,Customer Support,Six Sigma Green Belt
+E019,Daniel Perez,Customer Support,AWS Certified
+E020,Nancy Thompson,Sales Negotiation,Six Sigma Green Belt
+E020,Nancy Thompson,Sales Negotiation,AWS Certified
+E020,Nancy Thompson,Excel,Six Sigma Green Belt
+E020,Nancy Thompson,Excel,AWS Certified
+E009,William Rodriguez,Java,PMP
+E009,William Rodriguez,Java,Azure Fundamentals
+E009,William Rodriguez,Python,PMP
+E009,William Rodriguez,Python,Azure Fundamentals
+E009,William Rodriguez,Customer Support,PMP
+E009,William Rodriguez,Customer Support,Azure Fundamentals
+E004,Linda Brown,Java,Azure Fundamentals
+E004,Linda Brown,Java,ITIL Foundation
+E004,Linda Brown,Java,AWS Certified
+E004,Linda Brown,SQL,Azure Fundamentals
+E004,Linda Brown,SQL,ITIL Foundation
+E004,Linda Brown,SQL,AWS Certified
+E005,Michael Jones,Sales Negotiation,Six Sigma Green Belt
+E005,Michael Jones,Sales Negotiation,Google Analytics
+E005,Michael Jones,Sales Negotiation,AWS Certified
+E005,Michael Jones,Java,Six Sigma Green Belt
+E005,Michael Jones,Java,Google Analytics
+E005,Michael Jones,Java,AWS Certified
+E005,Michael Jones,Python,Six Sigma Green Belt
+E005,Michael Jones,Python,Google Analytics
+E005,Michael Jones,Python,AWS Certified

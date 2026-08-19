@@ -1,0 +1,6 @@
+store_id,store_name,city,state,country,manager_id,manager_name
+ST01,Downtown Flagship Store,New York,New York,USA,E003,Robert Williams
+ST02,Westside Retail Center,Los Angeles,California,USA,E008,Jennifer Davis
+ST03,Lakeside Mall Branch,Chicago,Illinois,USA,E013,Joseph Taylor
+ST04,Riverside Outlet,Dallas,Texas,USA,E018,Karen Lee
+ST05,North Hub Store,Toronto,Ontario,Canada,E003,Robert Williams

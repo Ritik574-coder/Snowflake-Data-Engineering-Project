@@ -1,0 +1,101 @@
+customer_id,customer_name,email,phone,city,state,country,signup_date
+C0001,Maria Johnson,maria.johnson1@mailbox.example.com,(299) 567-6635,Los Angeles,California,USA,2025-10-08
+C0002,Robert Williams,robert.williams2@mailbox.example.com,(470) 244-8527,Chicago,Illinois,USA,2025-01-05
+C0003,Linda Brown,linda.brown3@mailbox.example.com,(327) 587-2291,Houston,Texas,USA,2025-03-11
+C0004,Michael Jones,michael.jones4@mailbox.example.com,(500) 843-6925,Phoenix,Arizona,USA,2025-06-22
+C0005,Patricia Garcia,patricia.garcia5@mailbox.example.com,(396) 921-2139,Philadelphia,Pennsylvania,USA,2019-07-07
+C0006,David Miller,david.miller6@mailbox.example.com,(877) 433-5741,San Antonio,Texas,USA,2019-11-23
+C0007,Jennifer Davis,jennifer.davis7@mailbox.example.com,(438) 303-7227,San Diego,California,USA,2022-02-12
+C0008,William Rodriguez,william.rodriguez8@mailbox.example.com,(664) 850-6977,Dallas,Texas,USA,2020-10-28
+C0009,Elizabeth Martinez,elizabeth.martinez9@mailbox.example.com,(579) 563-4432,Austin,Texas,USA,2021-12-29
+C0010,Richard Wilson,richard.wilson10@mailbox.example.com,(918) 899-2169,Toronto,Ontario,Canada,2025-10-31
+C0011,Susan Anderson,susan.anderson11@mailbox.example.com,(850) 375-9751,Vancouver,British Columbia,Canada,2021-09-29
+C0012,Joseph Taylor,joseph.taylor12@mailbox.example.com,(367) 673-7216,Montreal,Quebec,Canada,2022-01-10
+C0013,Jessica Thomas,jessica.thomas13@mailbox.example.com,(855) 904-4598,London,England,United Kingdom,2022-08-21
+C0014,Thomas Moore,thomas.moore14@mailbox.example.com,(986) 994-1916,Manchester,England,United Kingdom,2021-07-27
+C0015,Sarah Jackson,sarah.jackson15@mailbox.example.com,(232) 523-7572,Mumbai,Maharashtra,India,2022-01-01
+C0016,Charles Martin,charles.martin16@mailbox.example.com,(267) 416-6155,Delhi,Delhi,India,2021-05-20
+C0017,Karen Lee,karen.lee17@mailbox.example.com,(871) 711-7482,Bengaluru,Karnataka,India,2024-02-23
+C0018,Daniel Perez,daniel.perez18@mailbox.example.com,(346) 471-3287,New York,New York,USA,2021-10-07
+C0019,Nancy Thompson,nancy.thompson19@mailbox.example.com,(962) 774-9830,Los Angeles,California,USA,2021-12-12
+C0020,Christopher White,christopher.white20@mailbox.example.com,(964) 798-8019,Chicago,Illinois,USA,2025-07-18
+C0021,Barbara Harris,barbara.harris21@mailbox.example.com,(608) 570-4593,Houston,Texas,USA,2020-07-20
+C0022,Matthew Sanchez,matthew.sanchez22@mailbox.example.com,(721) 705-2489,Phoenix,Arizona,USA,2019-07-12
+C0023,Nancy Clark,nancy.clark23@mailbox.example.com,(312) 356-3621,Philadelphia,Pennsylvania,USA,2023-09-26
+C0024,Anthony Ramirez,anthony.ramirez24@mailbox.example.com,(810) 265-7304,San Antonio,Texas,USA,2023-04-13
+C0025,Lisa Lewis,lisa.lewis25@mailbox.example.com,(810) 679-9669,San Diego,California,USA,2021-10-26
+C0026,Mark Robinson,mark.robinson26@mailbox.example.com,(766) 211-2876,Dallas,Texas,USA,2025-01-08
+C0027,Betty Walker,betty.walker27@mailbox.example.com,(968) 473-6573,Austin,Texas,USA,2020-04-01
+C0028,Donald Young,donald.young28@mailbox.example.com,(500) 645-3591,Toronto,Ontario,Canada,2024-02-02
+C0029,Margaret Allen,margaret.allen29@mailbox.example.com,(203) 939-5315,Vancouver,British Columbia,Canada,2024-08-12
+C0030,Steven King,steven.king30@mailbox.example.com,(980) 382-9317,Montreal,Quebec,Canada,2020-03-11
+C0031,Sandra Wright,sandra.wright31@mailbox.example.com,(840) 505-9317,London,England,United Kingdom,2025-10-30
+C0032,Paul Scott,paul.scott32@mailbox.example.com,(403) 356-7126,Manchester,England,United Kingdom,2020-10-23
+C0033,Ashley Torres,ashley.torres33@mailbox.example.com,(752) 997-9689,Mumbai,Maharashtra,India,2019-01-03
+C0034,Andrew Nguyen,andrew.nguyen34@mailbox.example.com,(813) 531-9005,Delhi,Delhi,India,2019-03-21
+C0035,Kimberly Hill,kimberly.hill35@mailbox.example.com,(314) 571-6038,Bengaluru,Karnataka,India,2021-09-07
+C0036,Joshua Flores,joshua.flores36@mailbox.example.com,(259) 446-2290,New York,New York,USA,2019-12-17
+C0037,Emily Green,emily.green37@mailbox.example.com,(949) 697-2133,Los Angeles,California,USA,2024-12-21
+C0038,Kenneth Adams,kenneth.adams38@mailbox.example.com,(984) 328-3103,Chicago,Illinois,USA,2024-04-30
+C0039,Donna Nelson,donna.nelson39@mailbox.example.com,(762) 369-5342,Houston,Texas,USA,2024-12-01
+C0040,Kevin Baker,kevin.baker40@mailbox.example.com,(821) 633-4470,Phoenix,Arizona,USA,2025-01-17
+C0041,Michelle Hall,michelle.hall41@mailbox.example.com,(973) 947-4295,Philadelphia,Pennsylvania,USA,2022-06-30
+C0042,Brian Rivera,brian.rivera42@mailbox.example.com,(608) 887-7118,San Antonio,Texas,USA,2023-11-30
+C0043,Carol Campbell,carol.campbell43@mailbox.example.com,(729) 662-2982,San Diego,California,USA,2021-10-12
+C0044,George Mitchell,george.mitchell44@mailbox.example.com,(430) 265-6539,Dallas,Texas,USA,2019-03-28
+C0045,Amanda Carter,amanda.carter45@mailbox.example.com,(802) 767-4770,Austin,Texas,USA,2025-08-07
+C0046,Edward Roberts,edward.roberts46@mailbox.example.com,(425) 207-2163,Toronto,Ontario,Canada,2019-08-30
+C0047,Melissa Gomez,melissa.gomez47@mailbox.example.com,(434) 269-1514,Vancouver,British Columbia,Canada,2022-09-15
+C0048,Ronald Phillips,ronald.phillips48@mailbox.example.com,(272) 726-4899,Montreal,Quebec,Canada,2022-02-14
+C0049,Deborah Evans,deborah.evans49@mailbox.example.com,(885) 697-4510,London,England,United Kingdom,2025-01-17
+C0050,Timothy Turner,timothy.turner50@mailbox.example.com,(335) 940-8744,Manchester,England,United Kingdom,2021-09-22
+C0051,Stephanie Diaz,stephanie.diaz51@mailbox.example.com,(684) 616-4119,Mumbai,Maharashtra,India,2020-01-22
+C0052,Jason Parker,jason.parker52@mailbox.example.com,(299) 874-8062,Delhi,Delhi,India,2022-12-22
+C0053,Rebecca Cruz,rebecca.cruz53@mailbox.example.com,(633) 620-8651,Bengaluru,Karnataka,India,2019-08-10
+C0054,Jeffrey Edwards,jeffrey.edwards54@mailbox.example.com,(889) 869-2612,New York,New York,USA,2019-09-06
+C0055,Sharon Collins,sharon.collins55@mailbox.example.com,(612) 945-6559,Los Angeles,California,USA,2020-03-23
+C0056,Ryan Reyes,ryan.reyes56@mailbox.example.com,(454) 396-4116,Chicago,Illinois,USA,2025-01-05
+C0057,Laura Stewart,laura.stewart57@mailbox.example.com,(659) 343-7912,Houston,Texas,USA,2021-01-21
+C0058,Jacob Morris,jacob.morris58@mailbox.example.com,(485) 673-5092,Phoenix,Arizona,USA,2019-11-05
+C0059,Cynthia Morales,cynthia.morales59@mailbox.example.com,(653) 763-2604,Philadelphia,Pennsylvania,USA,2019-07-27
+C0060,Gary Murphy,gary.murphy60@mailbox.example.com,(867) 753-1241,San Antonio,Texas,USA,2020-01-18
+C0061,Kathleen Cook,kathleen.cook61@mailbox.example.com,(971) 442-3724,San Diego,California,USA,2023-07-23
+C0062,Nicholas Rogers,nicholas.rogers62@mailbox.example.com,(697) 692-4502,Dallas,Texas,USA,2023-07-01
+C0063,Amy Gutierrez,amy.gutierrez63@mailbox.example.com,(260) 368-7209,Austin,Texas,USA,2019-01-09
+C0064,Eric Ortiz,eric.ortiz64@mailbox.example.com,(599) 471-8454,Toronto,Ontario,Canada,2022-03-14
+C0065,Shirley Morgan,shirley.morgan65@mailbox.example.com,(633) 913-8973,Vancouver,British Columbia,Canada,2020-09-26
+C0066,Jonathan Cooper,jonathan.cooper66@mailbox.example.com,(394) 503-4566,Montreal,Quebec,Canada,2019-08-28
+C0067,Angela Peterson,angela.peterson67@mailbox.example.com,(793) 953-9883,London,England,United Kingdom,2019-09-07
+C0068,Stephen Bailey,stephen.bailey68@mailbox.example.com,(965) 521-1936,Manchester,England,United Kingdom,2019-07-25
+C0069,Helen Reed,helen.reed69@mailbox.example.com,(798) 688-9238,Mumbai,Maharashtra,India,2024-12-15
+C0070,Larry Kelly,larry.kelly70@mailbox.example.com,(361) 258-9320,Delhi,Delhi,India,2019-11-25
+C0071,Anna Howard,anna.howard71@mailbox.example.com,(390) 270-2113,Bengaluru,Karnataka,India,2021-08-21
+C0072,Justin Ramos,justin.ramos72@mailbox.example.com,(613) 322-5033,New York,New York,USA,2025-06-29
+C0073,Brenda Kim,brenda.kim73@mailbox.example.com,(808) 240-2343,Los Angeles,California,USA,2023-09-14
+C0074,Scott Cox,scott.cox74@mailbox.example.com,(873) 797-9565,Chicago,Illinois,USA,2022-07-19
+C0075,Pamela Ward,pamela.ward75@mailbox.example.com,(467) 409-6147,Houston,Texas,USA,2021-09-04
+C0076,Brandon Richardson,brandon.richardson76@mailbox.example.com,(471) 605-3144,Phoenix,Arizona,USA,2022-05-13
+C0077,Nicole Watson,nicole.watson77@mailbox.example.com,(668) 523-2188,Philadelphia,Pennsylvania,USA,2019-02-08
+C0078,Benjamin Brooks,benjamin.brooks78@mailbox.example.com,(669) 836-2638,San Antonio,Texas,USA,2019-10-28
+C0079,Emma Chavez,emma.chavez79@mailbox.example.com,(750) 418-9288,San Diego,California,USA,2021-12-22
+C0080,Samuel Wood,samuel.wood80@mailbox.example.com,(335) 557-2127,Dallas,Texas,USA,2021-09-27
+C0081,Samantha James,samantha.james81@mailbox.example.com,(578) 491-3584,Austin,Texas,USA,2023-11-30
+C0082,Gregory Bennett,gregory.bennett82@mailbox.example.com,(756) 920-5956,Toronto,Ontario,Canada,2025-11-10
+C0083,Katherine Gray,katherine.gray83@mailbox.example.com,(869) 741-1128,Vancouver,British Columbia,Canada,2025-03-21
+C0084,Alexander Mendoza,alexander.mendoza84@mailbox.example.com,(506) 879-2697,Montreal,Quebec,Canada,2020-07-04
+C0085,Christine Ruiz,christine.ruiz85@mailbox.example.com,(470) 318-2753,London,England,United Kingdom,2025-03-16
+C0086,Frank Hughes,frank.hughes86@mailbox.example.com,(359) 478-5616,Manchester,England,United Kingdom,2025-10-13
+C0087,Debra Price,debra.price87@mailbox.example.com,(415) 934-6617,Mumbai,Maharashtra,India,2021-04-13
+C0088,Raymond Alvarez,raymond.alvarez88@mailbox.example.com,(903) 849-5325,Delhi,Delhi,India,2024-09-01
+C0089,Rachel Castillo,rachel.castillo89@mailbox.example.com,(700) 457-1832,Bengaluru,Karnataka,India,2020-01-14
+C0090,Jack Sanders,jack.sanders90@mailbox.example.com,(849) 633-5533,New York,New York,USA,2019-06-30
+C0091,Catherine Patel,catherine.patel91@mailbox.example.com,(203) 541-3143,Los Angeles,California,USA,2021-12-08
+C0092,Dennis Myers,dennis.myers92@mailbox.example.com,(365) 959-8239,Chicago,Illinois,USA,2025-03-09
+C0093,Carolyn Long,carolyn.long93@mailbox.example.com,(922) 637-1158,Houston,Texas,USA,2020-04-03
+C0094,Jerry Ross,jerry.ross94@mailbox.example.com,(277) 907-3442,Phoenix,Arizona,USA,2025-02-12
+C0095,Janet Foster,janet.foster95@mailbox.example.com,(236) 578-3426,Philadelphia,Pennsylvania,USA,2023-10-27
+C0096,Tyler Jimenez,tyler.jimenez96@mailbox.example.com,(330) 242-6050,San Antonio,Texas,USA,2023-02-02
+C0097,Ruth Smith,ruth.smith97@mailbox.example.com,(240) 566-4441,San Diego,California,USA,2021-10-19
+C0098,Aaron Johnson,aaron.johnson98@mailbox.example.com,(882) 305-6794,Dallas,Texas,USA,2025-04-12
+C0099,Maria Williams,maria.williams99@mailbox.example.com,(616) 835-3532,Austin,Texas,USA,2021-08-27
+C0100,Jose Brown,jose.brown100@mailbox.example.com,(366) 381-7755,Toronto,Ontario,Canada,2019-04-12

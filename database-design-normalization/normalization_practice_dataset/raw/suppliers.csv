@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_email,city,state,country
+SUP001,Northgate Distributors,northgatedistributors@supplier.example.com,Houston,Texas,USA
+SUP002,BrightPoint Wholesale,brightpointwholesale@supplier.example.com,San Antonio,Texas,USA
+SUP003,Meridian Supply Co,meridiansupplyco@supplier.example.com,Austin,Texas,USA
+SUP004,Silverline Traders,silverlinetraders@supplier.example.com,Montreal,Quebec,Canada
+SUP005,Crestview Imports,crestviewimports@supplier.example.com,Mumbai,Maharashtra,India
+SUP006,Oakwood Vendors,oakwoodvendors@supplier.example.com,New York,New York,USA
+SUP007,Pinnacle Goods Ltd,pinnaclegoodsltd@supplier.example.com,Houston,Texas,USA
+SUP008,Harborline Supply,harborlinesupply@supplier.example.com,San Antonio,Texas,USA
+SUP009,Summit Trade Partners,summittradepartners@supplier.example.com,Austin,Texas,USA
+SUP010,Cascade Wholesale Group,cascadewholesalegroup@supplier.example.com,Montreal,Quebec,Canada
