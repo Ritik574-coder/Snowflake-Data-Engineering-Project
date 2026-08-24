@@ -1,5 +1,4 @@
-# ❄️ **Snowflake Data Engineering**
-
+![Snowflake Data Engineering Banner](https://github.com/Ritik574-coder/Snowflake-Data-Engineering-Project/blob/main/project_resource/snoflake_banner2.png)
 [![Snowflake](https://img.shields.io/badge/Snowflake-00A1E9?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
@@ -18,7 +17,7 @@ This project bridges the gap between theoretical data warehousing concepts and r
 
 ## 🖼️ Project Banner & Media
 
-![Snowflake Data Engineering Banner](project_resource/full_load_warehouse_poster.png)
+https://github.com/user-attachments/assets/9572fa29-61ff-42d5-9edb-20e1883fb01c
 
 > 🎙️ **Project Intro Audio**: [`project_resource/snowflake_project_intro.mp3`](project_resource/snowflake_project_intro.mp3)
 > 🎥 **Demo Video**: [`project_resource/snowproject_demo_video.mp4`](project_resource/snowproject_demo_video.mp4)
