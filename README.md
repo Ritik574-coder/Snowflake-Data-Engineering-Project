@@ -224,7 +224,7 @@ COPY INTO AIRCRAFT FROM @AIRLINE_STAGE/aircraft.csv.gz FILE_FORMAT = (TYPE = 'CS
 
 Built with ❤️ by **Ritik** as part of an ongoing journey to master Snowflake, modern data engineering architectures, and production platform design.
 
-- **GitHub**: [@Ritik-DataEngine](https://github.com/Ritik-DataEngine)
+- **GitHub**: [@Ritik-DataEngine](https://github.com/Ritik574-coder)
 
 ---
 
