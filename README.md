@@ -1,4 +1,4 @@
-# ❄️ Snowflake Data Engineering — Enterprise ELT & Data Platform Ecosystem
+# ❄️ **Snowflake Data Engineering — Data Platform Ecosystem**
 
 [![Snowflake](https://img.shields.io/badge/Snowflake-00A1E9?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
