@@ -1,8 +1,10 @@
 -- ===========================================================================================
 -- =================== FIRST NORMALIZATION CHECK IN CUSTOMERS DATASET ========================
 -- ===========================================================================================
--- switch corrent databse and schema 
+-- switch to corrent databse 
 USE DATABASE NORMALIZE_DW ;
+
+-- Switch to corrent schema 
 USE SCHEMA STAGING ; 
 -- Checking for customer_id values that potentially violate 1NF
 -- by identifying rows where a single customer_id field may contain multiple values.
