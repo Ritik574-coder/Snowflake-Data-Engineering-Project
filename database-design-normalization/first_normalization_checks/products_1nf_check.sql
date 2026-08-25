@@ -9,7 +9,7 @@ USE SCHEMA STAGING ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name PRODUCT_ID
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             PRODUCT_ID, '.*[!|,_:;].*')
@@ -18,7 +18,7 @@ FROM products ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name PRODUCT_NAME
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             PRODUCT_NAME, '.*[!|,_:;].*')
@@ -27,7 +27,7 @@ FROM products ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name CATEGORY_ID
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             CATEGORY_ID, '.*[!|,_:;].*')
@@ -36,7 +36,7 @@ FROM products ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name CATEGORY_NAME
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             CATEGORY_NAME, '.*[!|,_:;].*')
@@ -45,7 +45,7 @@ FROM products ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name SUPPLIER_ID
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             SUPPLIER_ID, '.*[!|,_:;].*')
@@ -54,7 +54,7 @@ FROM products ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name SUPPLIER_NAME
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             SUPPLIER_NAME, '.*[!|,_:;].*')
@@ -63,7 +63,7 @@ FROM products ;
 
 -- checking suspicious row and checking the every colimn contain single atomic valiue and these are not represent group in column name UNIT_PRICE
 SELECT 
-    COUNT(*) AS totla_row,
+    COUNT(*) AS total_row,
     COUNT_IF(
         REGEXP_LIKE(
             UNIT_PRICE, '.*[!|,_:;].*')
