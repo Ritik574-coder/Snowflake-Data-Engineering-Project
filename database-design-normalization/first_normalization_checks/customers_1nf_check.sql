@@ -9,7 +9,10 @@ USE SCHEMA STAGING ;
 
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(CUSTOMER_ID, '.*[,.|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            CUSTOMER_ID, '.*[,.|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -17,7 +20,10 @@ FROM customers;
 -- by identifying rows where a single customer_name field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(CUSTOMER_NAME, '.*[,.|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            CUSTOMER_NAME, '.*[,.|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -25,7 +31,10 @@ FROM customers;
 -- by identifying rows where a single email field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(EMAIL, '.*[,|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            EMAIL, '.*[,|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -33,7 +42,10 @@ FROM customers;
 -- by identifying rows where a single phone field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(PHONE, '.*[,.|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            PHONE, '.*[,.|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -41,7 +53,10 @@ FROM customers;
 -- by identifying rows where a single city field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(CITY, '.*[,.|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            CITY, '.*[,.|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -49,7 +64,10 @@ FROM customers;
 -- by identifying rows where a single state field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(STATE, '.*[,.|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            STATE, '.*[,.|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -57,7 +75,10 @@ FROM customers;
 -- by identifying rows where a single country field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(COUNTRY, '.*[,.|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            COUNTRY, '.*[,.|*:;].*')
+    ) AS suspicious_row
 FROM customers;
 
 
@@ -65,5 +86,8 @@ FROM customers;
 -- by identifying rows where a single signup_date field may contain multiple values.
 SELECT 
     COUNT(*) AS total_row,
-    COUNT_IF(REGEXP_LIKE(SIGNUP_DATE, '.*[,|*:;].*')) AS suspicious_row
+    COUNT_IF(
+        REGEXP_LIKE(
+            SIGNUP_DATE, '.*[,|*:;].*')
+        ) AS suspicious_row
 FROM customers;
