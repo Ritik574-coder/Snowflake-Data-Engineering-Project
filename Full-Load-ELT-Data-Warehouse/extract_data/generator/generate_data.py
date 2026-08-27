@@ -33,7 +33,7 @@ RNG = np.random.default_rng(SEED)
 TODAY = datetime(2026, 8, 3)
 
 # Row-count targets. Big transactional tables are intentionally large;
-# dimension/reference tables stay small, as a real warehouse would look.
+# DIMENSIONS/reference tables stay small, as a real warehouse would look.
 N_AIRLINES = 20
 N_AIRCRAFT_MODELS = 25
 N_AIRPORTS = 250
@@ -207,7 +207,7 @@ def save(df, name):
 
 
 # ----------------------------------------------------------------------------
-# DIMENSION / REFERENCE TABLES
+# DIMENSIONS / REFERENCE TABLES
 # ----------------------------------------------------------------------------
 
 def gen_airlines():
@@ -1097,7 +1097,7 @@ def main():
     OUT_DIR = os.path.abspath(args.outdir)
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    print("== Reference / Dimension tables ==")
+    print("== Reference / DIMENSIONS tables ==")
     airlines_df = gen_airlines()
     models_df = gen_aircraft_models()
     airports_df = gen_airports()

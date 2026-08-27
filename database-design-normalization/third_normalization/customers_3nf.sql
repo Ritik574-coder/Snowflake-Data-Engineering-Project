@@ -29,24 +29,23 @@ HAVING COUNT(DISTINCT country) > 1;
 --##########################################################################################
 --############################## CREATING DDL SCRIPT  ######################################
 --##########################################################################################
+-- Switch to correct database
+USE DATABASE NORMALIZE_DW;
+-- Switch to the DIMENSIONS schema
+USE SCHEMA DIMENSIONS;
 
--- Switch to the DIMENSION schema
-USE SCHEMA DIMENSION;
 
-
--- Create the country dimension table
--- country_id is the surrogate primary key
+-- Create the country DIMENSIONS table country_id is the surrogate primary key
 -- country must be unique and cannot be NULL
-CREATE TABLE dimension.dim_countries (
+CREATE TABLE DIMENSIONS.dim_countries (
     country_id NUMBER AUTOINCREMENT PRIMARY KEY,
     country VARCHAR(60) UNIQUE NOT NULL
 );
 
 
--- Create the state dimension table
--- Each state is linked to its corresponding country
--- country_id acts as a foreign key to the country dimension
-CREATE TABLE dimension.dim_states (
+-- Create the state DIMENSIONS table Each state is linked to its corresponding country
+-- country_id acts as a foreign key to the country DIMENSIONS
+CREATE TABLE DIMENSIONS.dim_states (
     state_id NUMBER AUTOINCREMENT PRIMARY KEY,
     state VARCHAR(60) UNIQUE NOT NULL,
     country_id INTEGER NOT NULL,
@@ -56,10 +55,9 @@ CREATE TABLE dimension.dim_states (
 );
 
 
--- Create the city dimension table
--- Each city is linked to its corresponding state
--- state_id acts as a foreign key to the state dimension
-CREATE TABLE dimension.dim_cities (
+-- Create the city DIMENSIONS table Each city is linked to its corresponding state
+-- state_id acts as a foreign key to the state DIMENSIONS
+CREATE TABLE DIMENSIONS.dim_cities (
     city_id NUMBER AUTOINCREMENT PRIMARY KEY,
     city VARCHAR(60) UNIQUE NOT NULL,
     state_id INTEGER NOT NULL,
@@ -69,11 +67,9 @@ CREATE TABLE dimension.dim_cities (
 );
 
 
--- Create the customer dimension table
--- Each customer is linked to a city through city_id
--- customer_id is the primary key
--- email must be unique and cannot be NULL
-CREATE TABLE dimension.dim_customers (
+-- Create the customer DIMENSIONS table Each customer is linked to a city through city_id
+-- customer_id is the primary key email must be unique and cannot be NULL
+CREATE TABLE DIMENSIONS.dim_customers (
     customer_id VARCHAR(10) PRIMARY KEY,
     customer_name VARCHAR(120) NOT NULL,
     email VARCHAR(150) UNIQUE NOT NULL,
@@ -84,3 +80,4 @@ CREATE TABLE dimension.dim_customers (
     FOREIGN KEY (city_id)
         REFERENCES dim_cities(city_id)
 );
+

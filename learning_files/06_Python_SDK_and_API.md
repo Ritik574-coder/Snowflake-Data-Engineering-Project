@@ -175,7 +175,7 @@ def clean_orders(raw_json: dict) -> dict:
 
 ### Snowpark Python vs. `snow snowpark deploy` — When to Use Which
 
-| Dimension | `snow snowpark deploy` (CLI, project-defined) | Snowpark Python `@udf`/`@sproc` decorator (in-code) |
+| DIMENSIONS | `snow snowpark deploy` (CLI, project-defined) | Snowpark Python `@udf`/`@sproc` decorator (in-code) |
 |---|---|---|
 | Source of truth | `snowflake.yml` — declarative, versioned artifact list | Python code itself defines and registers the object |
 | Best for | CI/CD-managed, reviewable deployments of stable UDFs/procs | Ad-hoc registration inside a notebook/interactive session, dynamic pipeline generation |
@@ -215,7 +215,7 @@ for wh in root.warehouses.iter(like="WH_%"):
 
 ### When to Use `snowflake.core` vs. Raw SQL vs. CLI
 
-| Dimension | `snowflake.core` (Python API) | Raw SQL via Connector | `snow` CLI |
+| DIMENSIONS | `snowflake.core` (Python API) | Raw SQL via Connector | `snow` CLI |
 |---|---|---|---|
 | Best for | Programmatic, loop-driven object management (e.g., provisioning 200 per-tenant schemas from a config list) | One-off scripts, arbitrary SQL not yet modeled in the API | Terminal/CI-driven, human-readable, version-controlled scripts |
 | Type safety | ✅ Typed Python objects | ❌ Raw strings | N/A (declarative YAML for project-based commands) |

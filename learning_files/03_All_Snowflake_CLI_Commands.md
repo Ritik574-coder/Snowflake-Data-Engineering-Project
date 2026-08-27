@@ -330,7 +330,7 @@ snow stage remove @raw_landing/2026-07-30/orders_bad.parquet
 
 ### Internal vs. External Stage Comparison
 
-| Dimension | Internal Stage | External Stage |
+| DIMENSIONS | Internal Stage | External Stage |
 |---|---|---|
 | Storage location | Managed by Snowflake | Customer-owned cloud bucket (S3/Azure Blob/GCS) |
 | Setup | `CREATE STAGE` — zero extra config | Requires a **Storage Integration** (`CREATE STORAGE INTEGRATION`) with cloud IAM trust |
@@ -814,7 +814,7 @@ snow spcs service execute-job batch_scoring_job \
 
 ### Comparison: Tasks vs. SPCS Services
 
-| Dimension | Snowflake Task | SPCS Service |
+| DIMENSIONS | Snowflake Task | SPCS Service |
 |---|---|---|
 | Execution model | Scheduled SQL/procedure call | Long-running or job-based container |
 | Language flexibility | SQL, Snowpark (Python/Java/Scala) | Any language, any Docker image |
