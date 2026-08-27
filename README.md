@@ -11,7 +11,7 @@
 
 ## 📌 Executive Summary
 
-Welcome to the **Snowflake Data Engineering Ecosystem** — a production-inspired, end-to-end repository designed to demonstrate modern data warehousing, scalable ELT pipeline design, DIMENSIONSal modeling, automated ingestion, database normalization, and platform administration on **Snowflake**.
+Welcome to the **Snowflake Data Engineering Ecosystem** — a production-inspired, end-to-end repository designed to demonstrate modern data warehousing, scalable ELT pipeline design, Dimensional modeling, automated ingestion, database normalization, and platform administration on **Snowflake**.
 
 This project bridges the gap between theoretical data warehousing concepts and real-world enterprise implementations. Rather than relying on simplified toy datasets, it features a custom-built, highly realistic **Airline Reservation System** operational engine (~196 MB synthetic data across 32 relational entities) alongside dedicated modules for **Database Normalization & Schema Design** and a 10-chapter **Snowflake CLI Mastery Guide**.
 
@@ -205,7 +205,7 @@ COPY INTO AIRCRAFT FROM @AIRLINE_STAGE/aircraft.csv.gz FILE_FORMAT = (TYPE = 'CS
 | **Orchestration & Tooling** | Snowflake CLI (`snow`), SnowSQL, Bash, Git |
 | **Languages** | SQL (Snowflake Dialect), Python 3.x |
 | **Libraries** | Pandas, NumPy, Jupyter Notebooks |
-| **Data Modeling** | Medallion Architecture, Kimball DIMENSIONSal Star Schema, Normalization (1NF–5NF) |
+| **Data Modeling** | Medallion Architecture, Kimball Dimensional Star Schema, Normalization (1NF–5NF) |
 
 ---
 
