@@ -46,7 +46,7 @@ CREATE SCHEMA IF NOT EXISTS ANALYTICS_PROD.STAGING
 
 CREATE SCHEMA IF NOT EXISTS ANALYTICS_PROD.CORE
   DATA_RETENTION_TIME_IN_DAYS = 7
-  COMMENT = 'Conformed dimensional/fact models';
+  COMMENT = 'Conformed DIMENSIONSal/fact models';
 
 CREATE SCHEMA IF NOT EXISTS ANALYTICS_PROD.MARTS
   DATA_RETENTION_TIME_IN_DAYS = 7
@@ -141,7 +141,7 @@ snow sql -q "SELECT * FROM TABLE(INFORMATION_SCHEMA.WAREHOUSE_LOAD_HISTORY(
 
 ### Warehouse vs. Compute Pool (SPCS)
 
-| Dimension | Virtual Warehouse | SPCS Compute Pool |
+| DIMENSIONS | Virtual Warehouse | SPCS Compute Pool |
 |---|---|---|
 | Workload type | SQL, Snowpark UDF/procedure execution | Arbitrary containers, GPU workloads |
 | Billing granularity | Per-second, auto-suspend/resume | Per-second, per-node |

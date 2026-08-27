@@ -3,7 +3,7 @@
 A production-inspired, synthetic dataset simulating the operational systems of an
 airline reservation company. Built for practicing **Snowflake / SQL / Python data
 engineering**: ingestion, medallion architecture (Bronze → Silver → Gold), Kimball
-dimensional modeling, data cleaning, validation, transformation, and analytics.
+DIMENSIONSal modeling, data cleaning, validation, transformation, and analytics.
 
 This dataset is **not** intended for machine learning.
 
@@ -34,7 +34,7 @@ python generate_data.py --outdir ../data
 
 32 tables covering the full airline operational and commercial lifecycle:
 
-- **Reference / dimension data:** Airlines, Airports, Aircraft, Aircraft Models,
+- **Reference / DIMENSIONS data:** Airlines, Airports, Aircraft, Aircraft Models,
   Crew Members, Gate Information, Flight Routes, Flight Schedules
 - **Customer data:** Customers, Loyalty Members, Loyalty Transactions
 - **Flight operations:** Flights, Flight Status Logs, Crew Assignments,
@@ -70,7 +70,7 @@ keys; all dates are valid ISO `YYYY-MM-DD` / `YYYY-MM-DD HH:MM:SS`.
 - **Bronze:** raw CSV ingestion into Snowflake staging tables, as-is (dirty).
 - **Silver:** cleaning, standardization, deduplication, type enforcement,
   referential validation.
-- **Gold:** Kimball star schema — conformed dimensions (Customer, Passenger,
+- **Gold:** Kimball star schema — conformed DIMENSIONSs (Customer, Passenger,
   Airport, Aircraft, Airline, Route, Date, Time, Flight, Weather, Loyalty) and
   fact tables (Flights, Bookings, Payments, Baggage, Flight Performance,
   Customer Support).

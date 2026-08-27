@@ -11,7 +11,7 @@
 
 ## 📌 Executive Summary
 
-Welcome to the **Snowflake Data Engineering Ecosystem** — a production-inspired, end-to-end repository designed to demonstrate modern data warehousing, scalable ELT pipeline design, dimensional modeling, automated ingestion, database normalization, and platform administration on **Snowflake**.
+Welcome to the **Snowflake Data Engineering Ecosystem** — a production-inspired, end-to-end repository designed to demonstrate modern data warehousing, scalable ELT pipeline design, DIMENSIONSal modeling, automated ingestion, database normalization, and platform administration on **Snowflake**.
 
 This project bridges the gap between theoretical data warehousing concepts and real-world enterprise implementations. Rather than relying on simplified toy datasets, it features a custom-built, highly realistic **Airline Reservation System** operational engine (~196 MB synthetic data across 32 relational entities) alongside dedicated modules for **Database Normalization & Schema Design** and a 10-chapter **Snowflake CLI Mastery Guide**.
 
@@ -53,7 +53,7 @@ flowchart TD
         end
 
         subgraph Gold Layer / Business Marts
-            KIMBALL[Kimball Star Schema<br/>Conformed Dimensions & Fact Tables]
+            KIMBALL[Kimball Star Schema<br/>Conformed DIMENSIONSs & Fact Tables]
         end
     end
 
@@ -68,7 +68,7 @@ flowchart TD
     STAGE -->|COPY INTO| COPY
     COPY -->|Bulk Load| RAW
     RAW -->|Transform & Standardize| SILVER
-    SILVER -->|Dimensional Modeling| KIMBALL
+    SILVER -->|DIMENSIONSal Modeling| KIMBALL
 
     CLI -.-> STAGE
     CLI -.-> RAW
@@ -129,7 +129,7 @@ Simulates the core operational and analytical engine of an airline enterprise.
 Focuses on database normalization rigor and relational schema optimization:
 - Practical scripts for First Normal Form (1NF) checks (`customers_1nf_check.sql`).
 - Hand-crafted datasets covering advanced normal forms: **BCNF**, **4NF (Multivalued Dependencies)**, **5NF (Join Dependencies)**, **DKNF**, **EKNF**, **ETNF**, and **Temporal Schemas**.
-- DDL designs for structured dimensional and staging layouts (`NORMALIZE_DW`).
+- DDL designs for structured DIMENSIONSal and staging layouts (`NORMALIZE_DW`).
 
 ### 3. 📖 Snowflake CLI Mastery Guide (`learning_files/`)
 A 10-chapter reference guide for platform engineers and data engineers:
@@ -205,7 +205,7 @@ COPY INTO AIRCRAFT FROM @AIRLINE_STAGE/aircraft.csv.gz FILE_FORMAT = (TYPE = 'CS
 | **Orchestration & Tooling** | Snowflake CLI (`snow`), SnowSQL, Bash, Git |
 | **Languages** | SQL (Snowflake Dialect), Python 3.x |
 | **Libraries** | Pandas, NumPy, Jupyter Notebooks |
-| **Data Modeling** | Medallion Architecture, Kimball Dimensional Star Schema, Normalization (1NF–5NF) |
+| **Data Modeling** | Medallion Architecture, Kimball DIMENSIONSal Star Schema, Normalization (1NF–5NF) |
 
 ---
 

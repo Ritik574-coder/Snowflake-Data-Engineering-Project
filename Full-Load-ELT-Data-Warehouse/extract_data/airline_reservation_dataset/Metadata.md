@@ -500,12 +500,12 @@ operational exports, suitable for a Silver-layer cleaning pass.
 - **Silver:** Trim/standardize text fields, normalize country and phone
   formats, deduplicate customers where appropriate, enforce data types,
   validate foreign keys, and quarantine/flag any rows that fail validation.
-- **Gold:** Conform dimensions and build fact tables per the Kimball design
+- **Gold:** Conform DIMENSIONSs and build fact tables per the Kimball design
   below, ready for BI/analytics consumption.
 
 ## 9. Expected Kimball Warehouse Design
 
-**Dimensions:** Dim Customer, Dim Passenger, Dim Airport, Dim Aircraft,
+**DIMENSIONSs:** Dim Customer, Dim Passenger, Dim Airport, Dim Aircraft,
 Dim Airline, Dim Route, Dim Date, Dim Time, Dim Flight, Dim Weather,
 Dim Loyalty, Dim Crew, Dim Gate.
 
@@ -521,7 +521,7 @@ Dim Loyalty, Dim Crew, Dim Gate.
   feedback submission.
 
 This dataset intentionally supplies enough raw detail (status logs, crew
-assignments, weather, maintenance) to build these facts and dimensions
+assignments, weather, maintenance) to build these facts and DIMENSIONSs
 without needing additional source data.
 
 ## 9. Important Notes

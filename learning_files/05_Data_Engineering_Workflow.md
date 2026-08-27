@@ -162,7 +162,7 @@ Programmatic ingestion via the Python Ingest SDK is covered in `06_Python_SDK_an
 
 ### Snowpipe (Batch/Auto-Ingest) vs. Snowpipe Streaming
 
-| Dimension | Snowpipe (file-based) | Snowpipe Streaming |
+| DIMENSIONS | Snowpipe (file-based) | Snowpipe Streaming |
 |---|---|---|
 | Ingestion unit | Files landed in a stage | Individual rows via SDK |
 | Latency | Seconds to ~1 minute | Sub-second to a few seconds |
@@ -179,7 +179,7 @@ snow sql -q "
 CREATE TASK IF NOT EXISTS ANALYTICS_PROD.CORE.TASK_REFRESH_CUSTOMERS
   WAREHOUSE = WH_ELT_PROD
   SCHEDULE = 'USING CRON 0 */2 * * * UTC'
-  COMMENT = 'Refresh customer dimension every 2 hours'
+  COMMENT = 'Refresh customer DIMENSIONS every 2 hours'
   AS
   MERGE INTO ANALYTICS_PROD.CORE.CUSTOMERS AS tgt
   USING ANALYTICS_PROD.STAGING.RAW_CUSTOMERS AS src
@@ -273,7 +273,7 @@ snow sql -q "SELECT * FROM TABLE(INFORMATION_SCHEMA.DYNAMIC_TABLE_REFRESH_HISTOR
 
 ### Dynamic Tables vs. Tasks+Streams vs. dbt Incremental Models
 
-| Dimension | Dynamic Tables | Task + Stream (manual CDC) | dbt Incremental Model |
+| DIMENSIONS | Dynamic Tables | Task + Stream (manual CDC) | dbt Incremental Model |
 |---|---|---|---|
 | Refresh logic | Declarative — Snowflake computes the incremental plan | Imperative — you write the `MERGE` logic | Imperative — you write the incremental SQL + config |
 | Dependency chaining | Automatic (declare `TARGET_LAG`, Snowflake orders the DAG) | Manual (`AFTER` clauses) | Automatic via `ref()` DAG at `dbt run` time |
@@ -364,7 +364,7 @@ def nightly_elt():
 
 ### 10.4 Comparison: Tasks (native) vs. External Orchestrator + CLI
 
-| Dimension | Native Snowflake Tasks | Airflow/Dagster/Prefect + `snow` CLI |
+| DIMENSIONS | Native Snowflake Tasks | Airflow/Dagster/Prefect + `snow` CLI |
 |---|---|---|
 | Infra to operate | None (fully managed) | You run/host the orchestrator |
 | Cross-system dependencies (e.g., wait for an S3 file, call an external API) | Limited | Full — arbitrary Python/Bash steps |
