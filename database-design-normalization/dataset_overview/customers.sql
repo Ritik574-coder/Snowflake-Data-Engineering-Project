@@ -2,38 +2,44 @@
 -- ###########################################################################################
 -- ################ STAGING CUSTOMER DATASET PROFILING AND OVERVIEW ##########################
 -- ###########################################################################################
+
+-- Switch to corrent dataset 
 USE DATABASE NORMALIZE_DW ;
+
+-- Switch to corrent schema 
 USE SCHEMA STAGING ;
 
 -- ===========================================================================================
--- ================ CUSTOMER_ID DATA OVERVIEW AND VALIDATING CHECK  ==========================
+-- ================= CUSTOMER_ID DATA PROFILING AND VALIDATION ===============================
 -- ===========================================================================================
 
--- custoemr table data overview 
+-- Preview customer data for initial dataset profiling
 SELECT 
-    * 
-FROM customers LIMIT 10 ; 
+    *
+FROM customers 
+LIMIT 10;
 
--- duplicate custoemr id check 
+-- Check for duplicate customer_id values
 SELECT 
     customer_id,
-    COUNT(*) as customer_count
+    COUNT(*) AS customer_count
 FROM customers 
 GROUP BY customer_id 
 HAVING COUNT(*) > 1
-ORDER BY customer_count DESC ; 
+ORDER BY customer_count DESC;
 
--- returning those custoemr where custoemr_id is null or customer_id pattern not like ^C[0-9]+$
+
+-- Validate customer_id for NULL values and expected format (e.g., C123)
 SELECT 
     *
 FROM customers 
 WHERE customer_id IS NULL 
-OR NOT REGEXP_LIKE(customer_id, '^C[0-9]+$'); 
+   OR NOT REGEXP_LIKE(customer_id, '^C[0-9]+$');
 
 -- ===========================================================================================
--- ================ CUSTOMER_NAME DATA OVERVIEW AND VALIDATING CHECK  ========================
+-- ================= CUSTOMER_NAME DATA PROFILING AND VALIDATION =============================
 -- ===========================================================================================
--- customer_name profiling and validation check 
+-- Validate customer_name for NULL, whitespace, capitalization, and expected format
 SELECT 
     customer_name 
 FROM customers 
@@ -41,6 +47,4 @@ WHERE customer_name != TRIM(customer_name)
    OR customer_name != INITCAP(customer_name)
    OR customer_name IS NULL 
    OR customer_name = ''
-   OR NOT REGEXP_LIKE(customer_name, '^[A-Z][a-z]+( [A-Z][a-z]+)*$') ;
-
-
+   OR NOT REGEXP_LIKE(customer_name, '^[A-Z][a-z]+( [A-Z][a-z]+)*$');
