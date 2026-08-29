@@ -16,7 +16,7 @@ USE SCHEMA STAGING ;
 -- Preview customer data for initial dataset profiling
 SELECT 
     *
-FROM customers 
+FROM staging.customers 
 LIMIT 10;
 
 -- Check for duplicate customer_id values

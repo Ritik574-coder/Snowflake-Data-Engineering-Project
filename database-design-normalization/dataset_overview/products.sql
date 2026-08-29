@@ -1,6 +1,6 @@
 
 -- ###########################################################################################
--- ################ STAGING CUSTOMER DATASET PROFILING AND OVERVIEW ##########################
+-- ################# STAGING PRODUCTS DATASET PROFILING AND OVERVIEW #########################
 -- ###########################################################################################
 
 -- Switch to corrent dataset 
@@ -10,5 +10,11 @@ USE DATABASE NORMALIZE_DW ;
 USE SCHEMA STAGING ;
 
 -- ===========================================================================================
--- ================= CUSTOMER_ID DATA PROFILING AND VALIDATION ===============================
+-- ================== PRODUCT_ID DATA PROFILING AND VALIDATION ===============================
 -- ===========================================================================================
+
+-- Preview customer data for initial dataset profiling
+SELECT 
+    *
+FROM staging.products
+LIMIT 100 ; 

@@ -41,3 +41,55 @@ SELECT
 FROM staging.employees
 GROUP BY store_name
 HAVING COUNT(DISTINCT store_id) > 1;
+
+--##########################################################################################
+--###################### CREATING DDL SCRIPT AND INSERTING DATA  ###########################
+--##########################################################################################
+
+--- Switch to corrent database 
+USE DATABASE NORMALIZE_DW ;
+
+-- Switch to corrent schema 
+USE SCHEMA STAGING ; 
+
+--==========================================================================================
+--================================ dim_departments =========================================
+--==========================================================================================
+
+CREATE TABLE IF NOT EXISTS dimensions.dim_departments(
+    department_id   VARCHAR(10) PRIMARY KEY ,
+    department_name VARCHAR(100) UNIQUE NOT NULL
+);
+
+INSERT INTO dimensions.dim_departments(
+    department_id,
+    department_name
+)
+SELECT
+    department_id,
+    department_name
+FROM staging.employees 
+GROUP BY
+    department_id,
+    department_name 
+ORDER BY department_id ASC;
+
+CREATE OR REPLACE TABLE dimantions.dim_employees
+(
+    employee_id     NUMBER PRIMARY KEY,
+    department_id   NUMBER            ,
+    store_id        NUMBER            ,
+    employee_name   VARCHAR(100)      ,
+    hire_date       DATE              ,
+    salary          NUMBER(12, 2)
+);
+
+SELECT * FROM  staging.stores ;
+
+
+select * from dimensions.dim_cities ;
+select * from dimensions.dim_states ;
+select * from dimensions.dim_countries ;
+
+
+SELECT * FROM dimensions.dim_departments ;
