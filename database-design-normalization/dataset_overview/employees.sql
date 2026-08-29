@@ -16,5 +16,5 @@ USE SCHEMA STAGING ;
 -- Preview customer data for initial dataset profiling
 SELECT 
     *
-FROM employees 
+FROM staging.employees 
 LIMIT 100 ; 
