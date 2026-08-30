@@ -93,3 +93,31 @@ select * from dimensions.dim_countries ;
 
 
 SELECT * FROM dimensions.dim_departments ;
+
+
+
+
+SELECT 
+    country,
+    state,
+    city
+FROM staging.customers 
+
+UNION
+
+SELECT 
+    country,
+    state,
+    city
+FROM staging.stores 
+
+UNION
+
+SELECT 
+    country,
+    state,
+    city
+FROM staging.suppliers ; 
+
+
+

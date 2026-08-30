@@ -54,7 +54,15 @@ INSERT INTO dimensions.dim_countries (
 SELECT
     country
 FROM staging.customers 
-GROUP BY country;
+    UNION 
+SELECT
+    country
+FROM staging.suppliers 
+    UNION 
+SELECT
+    country
+FROM staging.stores
+;
 
 --==========================================================================================
 --=================================== dim_states ===========================================
@@ -159,3 +167,6 @@ SELECT
 FROM staging.customers AS c
 INNER JOIN dimensions.dim_cities AS dc
     ON c.city = dc.city;
+
+
+
