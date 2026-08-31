@@ -2,6 +2,10 @@
 
 set -e
 
+LOG_FILE="/home/ritik/Snowflake-Data-Engineering-Project/snowflake-semi-structured-data/setup_output.log"
+
+exec > >(tee -a "$LOG_FILE") 2>&1
+
 echo "================================================================="
 echo "=============== CHECKING THE CONNECTION LIST ===================="
 echo "================================================================="
@@ -34,12 +38,10 @@ snow sql \
     -c modern_data_engineering_snowflake \
     -f /home/ritik/Snowflake-Data-Engineering-Project/snowflake-semi-structured-data/orders/ddl_orders.sql
 
-
 echo ""
 echo "================================================================="
 echo "===================== INSERTING DATA  ==========================="
 echo "================================================================="
-
 
 snow sql \
     -c modern_data_engineering_snowflake \
@@ -52,6 +54,15 @@ snow sql \
 snow sql \
     -c modern_data_engineering_snowflake \
     -f /home/ritik/Snowflake-Data-Engineering-Project/snowflake-semi-structured-data/orders/insert_orders.sql
+
+echo ""
+echo "================================================================="
+echo "======================= DATA OVERVIEW ==========================="
+echo "================================================================="
+
+snow sql \
+    -c modern_data_engineering_snowflake \
+    -f /home/ritik/Snowflake-Data-Engineering-Project/snowflake-semi-structured-data/data_overview.sql
 
 echo ""
 echo "================================================================="
