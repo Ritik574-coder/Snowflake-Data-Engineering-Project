@@ -29,19 +29,13 @@ SELECT
     *
 FROM nested_data LIMIT 3;
 
--- EXTRACTING NESTED DATA FROM NESTED_DATA TABLE 
+-- EXTRACTING KEYS 
 SELECT 
-    OBJECT_KEYS(data:customer:profile:personal) as keys
-FROM nested_data ; 
+    OBJECT_KEYS(data:customer:profile:personal:contact:emails) as profile
+FROM nested_data 
+LIMIT 100; 
 
-SELECT 
-    OBJECT_KEYS(data:customer:orders) as keys2
-FROM nested_data ; 
-
-SELECT 
-OBJECT_KEYS(data:customer:profile:personal:contact:emails) as profile
-FROM nested_data LIMIT 100; 
-
+-- Nested JSON Data Extraction — Direct Path Navigation
 SELECT 
     data:customer:profile:personal:name:first::STRING                               as first_name,
     data:customer:profile:personal:name:last::STRING                                as last_name,
