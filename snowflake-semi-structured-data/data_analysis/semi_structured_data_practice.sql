@@ -129,3 +129,4 @@ FROM nested_data as nd,
         INPUT => r.value:comments
     ) as c
 ;
+
